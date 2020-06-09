@@ -216,6 +216,7 @@
 ### Python
 
 * [wtfpython](https://github.com/satwikkansal/wtfpython)
+* [urldecode](https://dev.to/k4ml/python-urldecode-on-command-line-2ek9)
 
 ## Tools
 
@@ -316,9 +317,10 @@ Package Manager
 
 #### Useful
 
-* list key-bindings: `gsettings list-recursively  org.gnome.desktop.wm.keybindings | sort | more`
+* list key-bindings: `gsettings list-recursively org.gnome.desktop.wm.keybindings | sort | more`
 * `Alt>Esc` : cycle-windows
 * `Alt>0` : switch in application
+* `google-chrome --app='https://teams.microsoft.com'` start teams in a different window
 
 #### Packages
 
