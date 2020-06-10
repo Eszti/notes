@@ -28,10 +28,31 @@ Package Manager
 - `Alt>0` : switch in application
 - `google-chrome --app='https://teams.microsoft.com'` start teams in a different window
 
-### Packages
+### Distributions
 
-- rpm: for Red Hat based (CentOS, Fedora)
-- deb: for Debian based (Ubuntu) (sudo apt install /path/to/file)
+#### Red Hat based
+
+- rpm package manager
+
+- Red Hat Enterprise Linux (RHELL)
+  - for commercial market
+  - open source, but not free
+- CentOS
+  - free, popular server
+- Fedora
+  - testing ground for RHELL
+
+#### Debian based
+
+- apt package manager
+
+- Debian
+  - stable releases
+- Ubuntu
+  - system to "just work"
+  - LTS every 2nd year
+- Linux Mint
+  - often Cinnamon desktop (~Windows)
 
 ### Package Manager
 
