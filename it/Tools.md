@@ -7,7 +7,10 @@
   - key promoter x plugin
 - Important hotkeys
   - alt+shift+left_arrow: navigate back
-  - alt+J: multiple cursor
+  - alt+J: multiple cursor (ctrl+ahift+alt+j: all)
+  - shift+alt+Ins: Column Selection Mode
+    - shift+up/down: multiple cursors
+    - mark with mouse
   - ctrl+E: recent files
 - Important features
   - zen & presentation mode
