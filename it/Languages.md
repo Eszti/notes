@@ -59,7 +59,10 @@
 
 ## JavaScript
 
-- [yarn](https://yarnpkg.com/):package manager built by fb, Google, Exponent & Tilde
+- [yarn](https://classic.yarnpkg.com/lang/en/):package manager built by fb, Google, Exponent & Tilde
+  - code is shared through package (~module) = code + package.json
+  - package.json: ~metadata to the project
+  - ~ alias for `npm run`
 
 ### Tesing
 
