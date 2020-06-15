@@ -66,6 +66,8 @@ Package Manager
   - update: updates the list of available packages but does not installs/upgrades
   - upgrade: installs available updates
 - Homebrew
+  - ~ apt, but 3rd party, not native
+  - originally for macOS
 
 ### Bash Commands
 
@@ -78,6 +80,7 @@ Package Manager
 - Terminator
 - KeePassXC
 - Shutter
+- [fuzzy finder](https://github.com/junegunn/fzf)
 
 ### Errors
 
