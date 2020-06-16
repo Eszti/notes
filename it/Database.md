@@ -1,24 +1,47 @@
 # Database
 
-## H2
+## RDBMS (Relational Database Management System)
 
-- RDBMS written in java
-- can be embedded in java applications in client-server mode
-- open source
-- IF: SQL, JDBC, PostgreSQL ODBC
+- well defined schema
+- tables & colums
 
-## JDBC
+- Examples
+  - [H2](https://www.h2database.com/html/main.html)
+    - written in java
+    - can be embedded in java applications in client-server mode
+  - [AWS RDS](https://aws.amazon.com/rds/)
 
-- API how a client access a database
-- java based
+### API
 
-## ODBC
+- JDBC (towards relational)
+- ODBC (not only for relational)
 
-- Open Database Connectivity
-- API for accessing a DBMS
+## NoSQL
 
-## MongoDB
+- not only SQL
 
-- NoSQL
-- general purpose, document-based, distributed database
-- [indices](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/)
+### Key-value store
+
+- ~ dictionary or hash table
+
+- Examples
+  - [redis](https://redis.io/)
+
+### Document-based
+
+- subclass of key-value store
+- store object in a single instance
+- assume some kind of encoding (xml, yaml, json, bson)
+
+- Examples
+  - [MongoDB](https://www.mongodb.com/)
+  - [AWS DocmentDB](https://aws.amazon.com/documentdb/)
+
+### Wide-column store
+
+- has rows & columns but the column format varies from row to row
+- ~ two dimensional key-value store
+
+- Examples
+  - [Cassandra](https://cassandra.apache.org/)
+  - [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
