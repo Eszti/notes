@@ -1,5 +1,17 @@
 # Web
 
+## Concepts
+
+- proxy
+  - intermediary between client and server, potentially masking the true orgin of the request
+  - types
+    - open proxy (forwarding proxy
+      - forwards requests
+      - on behalf of the clients
+    - reverse proxy
+      - resources returned to the client appear as if they originated from the proxy
+      - on behalf of the servers
+
 ## REST
 
 - server-driven
