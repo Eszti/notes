@@ -33,16 +33,16 @@
 - configs: local, global (all repos), system (all users)
 
 ```bash
-git config credential.helper store // unencypted, protected only by file permissions
+git config credential.helper store # unencypted, protected only by file permissions
+
+git push <remote_name> :<branch_name> # delete remote branch
+
+git update-index --skip-worktree FILE # ignore locally
+git update-index --no-skip-worktree FILE # do not ignore
+
+git remote -v  # find out origin
+git remote set-url origin ORIGIN # set origin
 ```
 
-- delete remote branch:
-
-```shell
-git push <remote_name> :<branch_name>
-```
-
-- ignore locally: git update-index --skip-worktree _file_
-- reverse: git update-index --no-skip-worktree _file_
 - [git bash prompt](https://github.com/magicmonty/bash-git-prompt)
 - [Monorepo](https://www.atlassian.com/git/tutorials/monorepos)
