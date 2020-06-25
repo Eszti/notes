@@ -55,6 +55,13 @@
 
 ### Maven
 
+- build automation: how & dependencies
+- POM: project object model
+  - parent-pom
+- plugin-based, all word is done by plugins
+- dependencies
+  - snapshots
+
 - `mercateo# mvn install -am -pl trex.agent.catalog.management -DskipTests`
 
 ## JavaScript
