@@ -27,6 +27,18 @@
 
 - [sdkman](https://sdkman.io/install): multiple sdk version (e.g. java)
 
+### Spring
+
+- Spring Framework
+  - features, e.g.
+    - dependency injection
+    - mvc
+    - jdbc...
+- Spring Boot
+  - eliminate boilerplate from Spring configuration, e.g.
+    - server
+    - deployment...
+
 ### Concepts
 
 - POJO: plain old java object: ordinary java object
