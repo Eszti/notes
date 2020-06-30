@@ -24,14 +24,14 @@
 
 ## DDD: Domain Driven Development
 
-- situation: scrum team (implementation) ---- stakeholders + domain experte (context & details)
+- situation: **scrum team** (implementation) ---- **stakeholders + domain experte** (context & details)
 - official book: 2004
 - Domains
-  - problem space (=analysis): subdomains
+  - **problem space** (=analysis): subdomains
     - core subdomain: use DDD (difficult tasks)
     - supporting subdomain (simpler solutions, probably jsut CRUD)
     - generic subdomain: e.g. accounting, just buy
-  - solution space (=design & implementation): bounded context, ~IT-teams
+  - **solution space** (=design & implementation): **bounded context**, ~IT-teams
 - Model
   - Analysis model: domain, only in theory
   - code model: is The Model  -> Model Driven Development
