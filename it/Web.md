@@ -12,6 +12,10 @@
       - resources returned to the client appear as if they originated from the proxy
       - on behalf of the servers
 
+## API
+
+- [quicktype](https://quicktype.io/): type generation
+
 ## REST
 
 - server-driven
