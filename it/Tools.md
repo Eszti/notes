@@ -15,7 +15,10 @@
 - Important features
   - zen & presentation mode
 - Solved issues
-  - broken markdown (javaFX error): choose another java runtime for the IDE (with plugin)
+  - broken markdown (javaFX error)
+    - choose another java runtime for the IDE
+    - [Choose Runtime plugin](https://plugins.jetbrains.com/plugin/12836-choose-runtime)
+    - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
 - Important plugins
   - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
   - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
