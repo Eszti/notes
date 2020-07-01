@@ -1,17 +1,5 @@
 # Web
 
-## Concepts
-
-- proxy
-  - intermediary between client and server, potentially masking the true orgin of the request
-  - types
-    - open proxy (forwarding proxy
-      - forwards requests
-      - on behalf of the clients
-    - reverse proxy
-      - resources returned to the client appear as if they originated from the proxy
-      - on behalf of the servers
-
 ## API
 
 - [quicktype](https://quicktype.io/): type generation
@@ -76,12 +64,32 @@
 - REST framework
 - provides JAX-RS reference implementation (own extended API)
 
+## Tests
+
+- headless browser: browser without GUI, good for testing, renders like real browsers
+- [cypress](https://www.cypress.io/)
+  - end-to-end browser testing framework
+  - can also headless
+- [jest](https://jestjs.io/)
+  - javascript test framework
+  - mostly for unit & integration
+- [Cucumber](https://cucumber.io/)
+  - write human readable tests
+  - mostly for e2e
+
 ## Userscripts
 
 - Chrome: [Tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)
 - Firefox: [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
 
-## Tests
+## Concepts
 
-- headless browser: browser without GUI, good for testing, renders like real browsers
-- cypress: end-to-end testing framework, can also headless
+- proxy
+  - intermediary between client and server, potentially masking the true orgin of the request
+  - types
+    - open proxy (forwarding proxy
+      - forwards requests
+      - on behalf of the clients
+    - reverse proxy
+      - resources returned to the client appear as if they originated from the proxy
+      - on behalf of the servers
