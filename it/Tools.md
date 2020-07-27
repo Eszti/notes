@@ -19,6 +19,7 @@
     - choose another java runtime for the IDE
     - [Choose Runtime plugin](https://plugins.jetbrains.com/plugin/12836-choose-runtime)
     - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
+    - mouse selects text autmatically: touch screen problem, touch screen -> works again
 - Important plugins
   - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
   - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
