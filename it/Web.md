@@ -3,6 +3,7 @@
 ## API
 
 - [quicktype](https://quicktype.io/): type generation
+- [mock REST APIs](https://mockapi.io/)
 
 ## REST
 
