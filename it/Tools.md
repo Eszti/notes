@@ -41,6 +41,7 @@
 git config credential.helper store # unencypted, protected only by file permissions
 
 git push <remote_name> :<branch_name> # delete remote branch
+git push -u origin HEAD # push new branch & set origin
 
 git update-index --skip-worktree FILE # ignore locally
 git update-index --no-skip-worktree FILE # do not ignore
