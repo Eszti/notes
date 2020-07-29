@@ -24,6 +24,7 @@
   - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
   - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
   - [Eclipser](https://plugins.jetbrains.com/plugin/7153-eclipser)
+  - [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
 
 ## Atlassian
 
