@@ -1,5 +1,11 @@
 # Tools
 
+## Editors
+
+- [Brackets](http://brackets.io/): web develoopment
+- [atom](https://atom.io/)
+- [sublime](https://www.sublimetext.com/)
+
 ## IntelliJ
 
 - Plugins/extra tools
