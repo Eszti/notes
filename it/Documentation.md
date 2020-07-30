@@ -7,6 +7,7 @@
 - [acsiidoc](https://asciidoc.org/)
   - human-readable markup document format, better syntax for tables, admonitions...
   - converter to different backends (e.g. html, pdf, epub...)
+- [keep a changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Coding syle
 
