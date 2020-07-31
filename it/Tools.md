@@ -63,3 +63,10 @@ git remote set-url origin ORIGIN # set origin
 
 - Miro
 - Mural
+
+## Security
+
+- [KeePassXC](https://keepassxc.org/): password manager
+  - settings: Auto-Type
+  - same password for multiple sites
+  - autotype commands pattern
