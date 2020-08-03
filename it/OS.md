@@ -27,6 +27,8 @@ Package Manager
 - `Alt>Esc` : cycle-windows
 - `Alt>0` : switch in application
 - `google-chrome --app='https://teams.microsoft.com'` start teams in a different window
+- debug: set -o xtrace
+- free disk space: df -h
 
 ### Distributions
 
@@ -69,11 +71,6 @@ Package Manager
   - ~ apt, but 3rd party, not native
   - originally for macOS
 
-### Bash Commands
-
-- debug: set -o xtrace
-- free disk space: df -h
-
 ### Softwares/Tools
 
 - [autojump](https://github.com/wting/autojump): instead of aliases
@@ -84,24 +81,16 @@ Package Manager
 
 ### Errors
 
-Problem
+#### Sub-process dpkg error
 
 ```shell
 E: Sub-process /usr/bin/dpkg returned an error code (1)
-```
 
-Solution
-
-```shell
 sudo rm /var/cache/debconf/-.dat
 sudo dpkg --configure -a
 ```
 
-Problem
-
-- Bluetooth cannot be turned on
-
-Solution
+#### Bluetooth cannot be turned on
 
 ```shell
 sudo apt-get install --reinstall bluez  // and reboot system
