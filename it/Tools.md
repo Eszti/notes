@@ -67,6 +67,6 @@ git remote set-url origin ORIGIN # set origin
 ## Security
 
 - [KeePassXC](https://keepassxc.org/): password manager
-  - settings: Auto-Type
+  - settings: Auto-Type (global hotkey)
   - same password for multiple sites
-  - autotype commands pattern
+  - [custom Auto-Type sequence](https://github.com/keepassxreboot/keepassxc/wiki/Autotype-Custom-Sequence)
