@@ -1,8 +1,18 @@
 # DevOps
 
-## docker-compose
+## Containers
 
-- defining & running multi-containers
+- docker
+  - PaaS (Platform as a Service)
+  - OS level virtualization
+  - deliver software in packages, called **containers**
+  - run by OS kernel, less resources than VM
+
+- docker-compose
+  - defining & running multi-container docker applications
+
+- kubernetes
+  - automatic deployment, scaling & management of containerized apps
 
 ## AWS
 
