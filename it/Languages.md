@@ -78,10 +78,11 @@
 
 ## JavaScript
 
-- [yarn](https://classic.yarnpkg.com/lang/en/):package manager built by fb, Google, Exponent & Tilde
+- [yarn](https://classic.yarnpkg.com/lang/en/): package manager built by fb, Google, Exponent & Tilde
   - code is shared through package (~module) = code + package.json
   - package.json: ~metadata to the project
   - ~ alias for `npm run`
+- [webpack](https://github.com/webpack/webpack): bundle js files for usage in browser
 
 ### Tesing
 
