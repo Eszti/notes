@@ -76,24 +76,6 @@
 
 - `mercateo# mvn install -am -pl trex.agent.catalog.management -DskipTests`
 
-## JavaScript
-
-- [yarn](https://classic.yarnpkg.com/lang/en/): package manager built by fb, Google, Exponent & Tilde
-  - code is shared through package (~module) = code + package.json
-  - package.json: ~metadata to the project
-  - ~ alias for `npm run`
-- [webpack](https://github.com/webpack/webpack): bundle js files for usage in browser
-
-### Tesing
-
-- [jest](https://jestjs.io/)
-
-### node.js
-
-- JavaScript runtime environment, executes JavaScript outside of a browser
-- [nvm - Node Version Manager](https://github.com/nvm-sh/nvm): multiple node.js versions with default
-- [npm](https://www.npmjs.com/): node package manager, yarn alternative
-
 ## Python
 
 - [pyenv](https://github.com/pyenv/pyenv)
