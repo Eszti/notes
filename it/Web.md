@@ -107,6 +107,7 @@
     - Props: ~ HTML attributes
   - PureComponent: only renders that changed
   - Redux: store
+  - Formik: schema
 
 - [Angular](https://github.com/angular/angular)
   - syntax: html + ts
@@ -134,6 +135,10 @@
 - [Redux](https://github.com/reduxjs/redux)
   - state container
   - most often with React
+
+- [Formik](https://formik.org/)
+  - form validation
+  - form handling & submission
 
 ## Java web
 
