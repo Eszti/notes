@@ -8,29 +8,42 @@
 
 ## IntelliJ
 
-- Plugins/extra tools
-  - update: [JenBeans Toolbox](https://www.jetbrains.com/toolbox-app/)
-  - key promoter x plugin
-- Important hotkeys
-  - alt+shift+left_arrow: navigate back
-  - alt+J: multiple cursor (ctrl+ahift+alt+j: all)
-  - shift+alt+Ins: Column Selection Mode
-    - shift+up/down: multiple cursors
+### Important hotkeys
+
+- navigate back/forward
+  - [alt+shift+left/right]
+  - mouse side buttons
+- multiple cursor
+  - [alt+j] same selections
+  - [ctrl+ahift+alt+j] all selection
+  - [double-ctrl-keep-pushing-up&down] up & down
+- Column Selection Mode
+  - [shift+alt+Ins] enter mode
+  - multiple cursors
+    - shift+up/down
     - mark with mouse
-  - ctrl+E: recent files
-- Important features
-  - zen & presentation mode
-- Solved issues
-  - broken markdown (javaFX error)
-    - choose another java runtime for the IDE
-    - [Choose Runtime plugin](https://plugins.jetbrains.com/plugin/12836-choose-runtime)
-    - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
-    - mouse selects text autmatically: touch screen problem, touch screen -> works again
-- Important plugins
-  - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
-  - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
-  - [Eclipser](https://plugins.jetbrains.com/plugin/7153-eclipser)
-  - [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
+- recent files
+  - [Ctrl+E]
+
+### Important features
+
+- zen & presentation mode
+
+### Solved issues
+  
+- broken markdown (javaFX error)
+  - choose another java runtime for the IDE
+  - [Choose Runtime plugin](https://plugins.jetbrains.com/plugin/12836-choose-runtime)
+  - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
+  - mouse selects text autmatically: touch screen problem, touch screen -> works again
+
+### Important plugins & extra tools
+
+- [JenBeans Toolbox](https://www.jetbrains.com/toolbox-app/)
+- [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+- [Eclipser](https://plugins.jetbrains.com/plugin/7153-eclipser)
+- [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
 
 ## Atlassian
 
