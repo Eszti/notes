@@ -193,7 +193,15 @@
   - write human readable tests
   - mostly for e2e
 
-## Userscripts
+## Browser
+
+### Google Chrome
+
+- hotkeys
+  - [Ctrl+w]: close tab
+  - [Ctrl+l/F6]: select URL
+
+### Userscripts
 
 - Chrome: [Tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)
 - Firefox: [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
