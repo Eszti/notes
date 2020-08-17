@@ -71,14 +71,6 @@ Package Manager
   - ~ apt, but 3rd party, not native
   - originally for macOS
 
-### Softwares/Tools
-
-- [autojump](https://github.com/wting/autojump): instead of aliases
-- Terminator
-- KeePassXC
-- Shutter
-- [fuzzy finder](https://github.com/junegunn/fzf)
-
 ### Errors
 
 #### Sub-process dpkg error

@@ -24,6 +24,9 @@
     - mark with mouse
 - recent files
   - [Ctrl+E]
+- Highlight Usages in File
+  - [Ctrl+Shift+F7] highlight all usages
+  - [F3/Ctrl+F3] navigate
 
 ### Important features
 
@@ -44,6 +47,16 @@
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 - [Eclipser](https://plugins.jetbrains.com/plugin/7153-eclipser)
 - [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
+- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation/)
+
+## Linux
+
+- [autojump](https://github.com/wting/autojump): instead of aliases
+- Terminator
+- KeePassXC
+- Shutter
+- [fuzzy finder](https://github.com/junegunn/fzf)
+  - Ctrl+R shows more results
 
 ## Atlassian
 
@@ -76,6 +89,10 @@ git remote set-url origin ORIGIN # set origin
 
 - Miro
 - Mural
+
+## Project Management Tools
+
+- [YouTrack](https://www.jetbrains.com/youtrack/?gclid=CjwKCAjwps75BRAcEiwAEiACMZrOZKN3r-n5sJOAKgFoa1jzhw3hzm0Gxz3lPHcEUuIiiBN2923J-hoCnKcQAvD_BwE): from JetBeans
 
 ## Security
 
