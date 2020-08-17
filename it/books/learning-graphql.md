@@ -93,3 +93,57 @@
     - lexical analysis: parsing keywords, arguments, brackets...
     - AST parsing: for easy modifications
   - GQL can traverse the AST & validate against GQL language & the current schema
+
+## Chapter 4. Designing a Schema
+
+- schema first
+  - defines a common language
+- SDL: Schema Definition Language
+- collection of type definition
+
+- Types
+  - can be written in any text file, own syntax
+  - !: non-nullable
+  - ID: string in JSON, will be validated as a unique value
+
+- Enums
+  - restrictive set of string values
+
+- List
+  - can have multiple types
+    - union: Studygroup | Workout
+    - interface
+      - interface AgendaItem {}
+      - type Workout implements AgendaItem {}
+  - [Int!]!
+  - connections
+    - one-to-one
+    - one-to-many
+    - many-to-one
+
+- Through types
+  - a node to connect two nodes (e.g. Friendship)
+
+- Arguments
+  - must have a type
+  - can also be used for
+    - filtering
+    - paging
+    - sorting
+
+- Mutations
+  - no difference in type definition
+  - represent the verbs
+
+- Input types
+  - for lengthy arguments
+
+- Return types
+  - can be custom types
+
+- Subscriptions
+  - no different from any other object type
+
+- Schema Documentation
+  - by adding """ ... """
+  - listed in Playground
