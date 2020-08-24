@@ -98,7 +98,7 @@
 
 - [webpack](https://github.com/webpack/webpack)
   - bundles js files for browser usage (for SPAs)
-  - dev-server for on-the-fly update
+  - dev-server for on-the-fly update (also possible with nodemon)
 
 ### JS Applications
 
