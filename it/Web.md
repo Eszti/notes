@@ -71,6 +71,8 @@
   - cross platform
   - executes JS code outside of a browser (server-side scripting)
   - version manager: [nvm - Node Version Manager](https://github.com/nvm-sh/nvm)
+  - web application frameworks
+    - [express](http://expressjs.com/): simple, well documented, but too heavy & slow
 
 ### JS package managers
 
@@ -151,6 +153,11 @@
 - [Formik](https://formik.org/)
   - form validation
   - form handling & submission
+
+## Design
+
+- [Storybook](https://github.com/storybookjs/storybook): UI components development in isolation
+  - storyshots: snapshot testing for components
 
 ## Java web
 
