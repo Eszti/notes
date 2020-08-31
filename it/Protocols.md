@@ -28,6 +28,9 @@
 - SFTP server: usually provided by an SSH server implementation
 - shares port 22 with SSH
 - extension of SSH
+- clients
+  - [FileZilla](https://filezilla-project.org/): linux, mac, windows, has also servers
+  - [WinSCP](https://winscp.net/eng/download.php): windows only
 
 ## SCP
 
