@@ -675,3 +675,71 @@ Default Parameters
   - supports auditing & logging
 
 ## Advanced Technologies in JavaScript and jQuery
+
+### Introduction
+
+- functiion myFunc(){}                  // most common
+- myFunc = function(){}                 // clearer
+- var myFunc = function(){}             // scope is the current containing block
+- var myObj = { myFunc: function(){} }  // include object in an object
+- myObj = { myFunc: function(){} }      // single global object, ~namespace
+
+- dealikng with legacy code
+  - Stub
+    - rename old function, make a stub for the old one
+    - (+) no duplicate code
+    - (-) multiple versions are not supported, stub is called, not the new version
+  - Default Values
+    - (+) for optional params
+    - (-) no native js support
+  - Object Parameter
+    - single object parameter
+    - extend object
+    - no specific order
+    - no placeholder for undefined
+- js does not enforce the existence of params
+- js ignores extra params
+
+### Event Handling
+
+- select element by #id or .class
+- jQuery: $
+- func.call(): first element is the *context* not the param we're expecting
+- chaining event handler attachments
+- event handler return value: not supposed to be present
+- event handlers
+  - .bind() - .unbind(): attaches copies, only to elements currently in the list
+  - .live() - .die(): adds also new objects, no copies, efficiency issues
+  - .delegate() - .undelegate(): robust version of live
+  - .on(): bind, live, delegate
+  - .off(): unbind, unlive, undelegate
+  - .one(): process only one time
+
+### Advanced Event Handling
+
+- shorthand method: .click(), .bclick()...
+- event handle methods: .on('click dbclick')
+
+- attach happends on each refresh
+- .off(): remove all event handlers
+- named function
+- event namespace
+  - to only remove handlers we added
+  - click.namespace, mousedown.namespace
+
+- custom event
+  - ßthis = $(this): $this.data
+  - $this.trigger()
+  - event.stopPropagation
+  - apply custom event on objects not part of the DOM
+    - $(internalObject).trigger: $(ob): create a jQuery object
+    - attach event listener
+      - $(internalObject).on('customEvent')
+  - as equal as system events
+
+- event params
+  - $({nodeName : 'NAME'})
+  - .on('eventName', function(event, param){})
+  - .on('eventName', param, function(event){})
+    - event.data
+    - params are passed as pointers

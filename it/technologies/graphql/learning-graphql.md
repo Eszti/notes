@@ -147,3 +147,34 @@
 - Schema Documentation
   - by adding """ ... """
   - listed in Playground
+
+## Chapter 5. Creating a GraphQL API
+
+- Apollo Server
+  - production ready features
+  - includes GraphQL playground
+  - ```npm install apollo-server graphql nodemon```
+  - nodemon: no get on-the-fly updates (webpack can also do this)
+
+- Resolvers
+  - schema
+    - describes data requirements
+  - resolver
+    - fulfill the requiremtns
+    - just functions
+    - returns the data
+      - the data for a particular field
+      - in the type & shape specified by the schema
+    - can be asynchronous (e.g. from a REST API)
+    - every field must have a corresponding resolver with the same name
+
+- Resolver arguments & return values
+  - first arg: reference to the partent object
+  - second arg: mutation arguments (can be input types or enums)
+  - can also return objects
+    - in this case a selection is needed
+
+- Trivial resolvers
+  - added to the top level resolvers
+
+## Chapter 6. GraphQL Clients
