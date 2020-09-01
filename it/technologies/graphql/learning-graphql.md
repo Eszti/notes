@@ -178,3 +178,29 @@
   - added to the top level resolvers
 
 ## Chapter 6. GraphQL Clients
+
+- sending queries
+  - HTTP POST requests to GraphQL endpoint
+  - body: query
+  - [graphql-request](https://github.com/prisma-labs/graphql-request): minimal client
+  - Apollo Client (Meteor Development Group) and Relay (fb): more powerful
+
+- Apollo Client
+  - community-driven
+  - caching, optimistic UI updates...
+  - React, Angular, Ember, Vue, iOS, Android
+  - Apollo Link: network request
+  - Apollo Cache: cache
+  - Apollo Boost, React-Apollo: needed
+  - Query: refetch, polling, fetchMore (paging)
+  - Mutation: refetchQuery
+  - Authorisation
+    - localStorage.getItem('ACCESS_TOKEN')
+  - Cache policies
+    - cache-first, cache-only, cache-and-network, network-only, no-cache
+    - can be persisted
+      - cache: new InMemoryCache()
+      - persistCache
+    - change in cache -> react-apollo detects & re-renders all the effected components
+    - cache.readQuery()
+    - cache.writeQuery()
