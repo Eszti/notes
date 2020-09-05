@@ -204,3 +204,85 @@
     - change in cache -> react-apollo detects & re-renders all the effected components
     - cache.readQuery()
     - cache.writeQuery()
+
+## Chapter 7. GraphQL in the Real World
+
+- Subscriptions
+  - HTTP
+    - for sending and receiving data between client & server
+    - not suitable for connecting to a server and listening for state changes
+    - before websockets: HTTP request with polling
+  - WebSokcet
+    - for real-time data transport
+    - for duplex two-way communication over a TCP socket
+  - full advantage of GraphQL: transport over WebSockets in addition to HTTP requests
+  - queries & mutations still use HTTP
+
+- Subscriptions with Apollo Server
+  - automatically incorporates packages
+  - needs an HTTP server
+  - pubsub
+    - mechanism for publishing events & sending data to the subscription resolvers
+  - resolvers
+    - contain a subscribe method
+
+- Subscriptions with Apollo Client
+  - subscription query
+  - client.subscribe().subscribe()
+
+- Uploading Files
+  - API & client must support multipart/form-data
+  - apollo-upload-client and apollo-upload-server (Apollo already incorporates)
+
+- Security
+  - clients can request too much data
+  - safeguards
+    - Request Timeout
+      - allows only a certain amount of time to process each request
+    - Data Limitation
+      - imit the amount of data that can be returned by each query
+      - e.g. limit paging
+    - Limiting Query Depth
+      - graphql-depth-limit
+      - validationRules: [depthLimit(5)]
+    - Limiting Query Complexity
+      - graphql-validation-complexity
+      - scalar: 1, list: 10, list of list: 100...
+      - validationRules: [
+            depthLimit(5),
+            createComplexityLimitRule(1000, {
+                onCost: cost => console.log('query cost: ', cost)
+            })
+        ]
+  - Apollo Engine
+    - monitor your GraphQL services
+      - identiy popular queries
+      - monitor executing times, errors
+      - detect bottlenecks
+
+- Next Steps
+  - Incremental Migration
+    - fest REST data in resolvers
+    - use graphql-request where you fetch data
+    - pick a single page or component at first
+    - new endpoints are only GraphQL
+    - do not maintain old REST endpoints, change to GraphQL
+  - Schema-First Development
+    - clarity & communication
+    - agreement between frontend & backend
+    - mocking responses in frontend, can be customized
+
+- GraphQL Community & Events
+  - Events
+    - [GraphQL Summit](https://summit.graphql.com/)
+    - [GraphQL Day](https://www.graphqlday.org/)
+    - [GraphQL Europe](https://www.graphql-europe.org/)
+    - [GraphQL Finland](https://graphql-finland.fi/)
+  - Community
+    - Schema stiching (create a singe GraphQL schema for multiple GraphQL APIs)
+    - Prisma
+      - GraphQL Playground & GraphQL Request authors
+      - Prisma Cloud
+    - AWS AppSync
+    - slack
+    - *help wanted* tags
