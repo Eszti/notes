@@ -78,7 +78,7 @@ Package Manager
 ```shell
 E: Sub-process /usr/bin/dpkg returned an error code (1)
 
-sudo rm /var/cache/debconf/-.dat
+sudo rm /var/cache/debconf/*.dat
 sudo dpkg --configure -a
 ```
 
