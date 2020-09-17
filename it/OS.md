@@ -30,6 +30,18 @@ Package Manager
 - debug: set -o xtrace
 - free disk space: df -h
 
+- create desktop icon
+  - in ~/.local/share/applications/ eclipse.desktop
+
+``` conf
+[Desktop Entry]
+Name=Eclipse
+Exec=/full/path/to/the/executable
+Terminal=false
+Type=Application
+Icon=/full/path/to/the/icon-file
+```
+
 ### Distributions
 
 #### Red Hat based
@@ -70,6 +82,11 @@ Package Manager
 - Homebrew
   - ~ apt, but 3rd party, not native
   - originally for macOS
+  
+### Security
+
+- Device encription
+  - [dm-crypt](https://wiki.archlinux.org/index.php/Dm-crypt/Device_encryption)
 
 ### Errors
 
