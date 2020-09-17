@@ -27,6 +27,10 @@
 
 - [sdkman](https://sdkman.io/install): multiple sdk version (e.g. java)
 
+### Command line
+
+- jar -tf *jar_file*: lists all classes in jar
+
 ### Spring
 
 - Spring Framework
