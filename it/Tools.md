@@ -5,6 +5,13 @@
 - [SonarCloud](https://sonarcloud.io/)
   - bugs, vulnerabilities, coverae...
 
+## Profiling
+
+- [Apache JMeter](https://jmeter.apache.org/)
+  - load testing tool
+- [Visual VM](https://visualvm.github.io/)
+  - get detailed info about Java applications running on a JVM
+
 ## Editors
 
 - [Brackets](http://brackets.io/): web develoopment
@@ -92,8 +99,14 @@ git remote set-url origin ORIGIN # set origin
 
 ## Collaboration Tools
 
-- Miro
-- Mural
+- whiteboards
+  - Miro
+  - Mural
+- drawing
+  - [excalidraw](https://excalidraw.com/)
+- UML
+  - IntelliJ: AsciiDox plugin [plantuml]
+  - [PlatText](https://www.planttext.com/)
 
 ## Project Management Tools
 
