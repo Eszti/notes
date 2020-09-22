@@ -9,8 +9,15 @@ what I learned
 [DataScience.md](it/DataScience.md)  
 [DevOps.md](it/DevOps.md)  
 [Documentation.md](it/Documentation.md)  
+[Glossary.md](it/Glossary.md)  
 [Languages.md](it/Languages.md)  
 [OS.md](it/OS.md)  
 [Protocols.md](it/Protocols.md)  
 [Tools.md](it/Tools.md)  
 [Web.md](it/Web.md)  
+
+## Nyelvek
+
+### Deutsch
+
+[Software](nyelv/deutsch/Software.ad)
