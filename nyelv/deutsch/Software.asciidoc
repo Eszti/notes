@@ -1,19 +1,60 @@
 # Software Wortschatz
 
-.Table Beschreibung
+.Table Effektive Softwarearchitekturen: Gernot Starke
 ,===
 
 die Vorgehensweise, eine flexible und systematische Vorgehensweise zum Entwurf von Softwarearchitekturen
 
 unterbreiten, wir möchten Ihnen pragmatische Vorschläge unterbreiten
 
-beurteilen, das Risiko beurteilen
-
-,===
-
-.Table Software Architecture
-,===
-
 beurteilen, das Risiko beurteilen / ein System beurteilen
+
+der Wirkungsgrad, der Wirkungsgrad ist das Verhältnis von Aufwand zu Ertrag
+
+prägnant, prägnant ausgedrückt = kurz und knapp ausgedrückt
+
+angemessen, angemessen Dokumentieren (suitable)
+
+auf etw angewandt, auf die Entwicklung angewandt
+
+für etw plädieren, ich plädiere in diesem Buch für Agilität
+
+erläutern, Kapitel 1 erläutert die Begriffe... / Kapitel 1 erläutert Ihnen Blick über...
+
+beleuchten, Kapitel 1 beleuchtet die Begriffe...
+
+sich etw (D) widmen, Kapitel 1 widmet sich dem Entwurf von Systemen
+
+etw zurückgeht, die Bedeutung geht zurück
+
+einschlägig, von den vielen Definitionen der einschlägigen Literatur
+
+Zerlegung, die Zerlegung in Komponenten
+
+das Kapitel,
+
+über etw bestimmen, Entscheidungen bestimmen über die Auswahl der eingesetzten Technologie
+
+Änderbarkeit, die gewünschte Änderbarkeit erreichen
+
+die Fachdomäne/-n, Abbildung der Fachdomäne auf Komponenten
+
+etw(D) unterliegen, Sie unterliegen starken Restriktionen
+
+beherrschbar, der Ansatz ist sehr leicht beherrschbar
+
+Erweiterbarkeit, die Erweitbarkeit und Flexibilität von Entwürfen
+
+der Algoritmus,
+
+etw an etw(D) ausrichten, das Handeln an den Werten ausrichten
+
+auf etw ausrichten, Sie können Ihre Dokumentation darauf ausrichten
+
+Auffassung, ich vertrete die Auffassung
+
+eng zusammen rücken, Begriffe rücken sehr eng zusammen
+
+anregen, mit diesen einfachen Fragen können Sie die Anderen anregen
 
 ,===
