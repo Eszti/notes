@@ -4,6 +4,13 @@
 
 - [Diagrams](https://diagrams.mingrammer.com/): for cloud system architectures
 
+## Testen
+
+- [ArchUnit](https://www.archunit.org/)
+  - TNG open source
+  - rule definition and evaluation
+  - pre-defined structures: layer & onion
+
 ## API to services
 
 - [blog](https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/)
