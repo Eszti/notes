@@ -63,6 +63,12 @@
   - executes js code
   - early days: interpreters
   - modern: just-in-time compilation
+- basic
+  - dynamic typing
+  - prototype-based
+  - object-oriented
+  - first-class functions
+  - multi-paradign (event-driven, functional, imerative)
 
 ### JS Runtime Environments (Frameworks)
 
