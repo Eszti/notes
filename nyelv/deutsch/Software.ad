@@ -1,3 +1,5 @@
+ifdef::env-github[]
+
 # Software Wortschatz
 
 .Table Beschreibung
@@ -17,3 +19,5 @@ beurteilen, das Risiko beurteilen
 beurteilen, das Risiko beurteilen / ein System beurteilen
 
 ,===
+
+endif::[]
