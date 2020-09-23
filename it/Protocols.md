@@ -1,5 +1,14 @@
 # Protocols
 
+## Compression
+
+### Zip
+
+- lossless data compression
+- mostly uses DEFLATE (Huffmann...)
+- up to 4GB files --> zip64 up to 16EB
+- [java library](https://github.com/srikanth-lingala/zip4j)
+
 ## FTP
 
 - client-server architecture (FTP Server)
