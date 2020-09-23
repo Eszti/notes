@@ -39,7 +39,7 @@ das Kapitel,
 
 die Fachdomäne/-n, Abbildung der Fachdomäne auf Komponenten
 
-etw(D) unterliegen, Sie unterliegen starken Restriktionen
+etw (D) unterliegen, Sie unterliegen starken Restriktionen
 
 beherrschbar, der Ansatz ist sehr leicht beherrschbar
 
@@ -47,7 +47,7 @@ Erweiterbarkeit, die Erweitbarkeit und Flexibilität von Entwürfen
 
 der Algoritmus,
 
-etw an etw(D) ausrichten, das Handeln an den Werten ausrichten
+etw an etw (D) ausrichten, das Handeln an den Werten ausrichten
 
 auf etw ausrichten, Sie können Ihre Dokumentation darauf ausrichten
 
@@ -56,5 +56,49 @@ Auffassung, ich vertrete die Auffassung
 eng zusammen rücken, Begriffe rücken sehr eng zusammen
 
 anregen, mit diesen einfachen Fragen können Sie die Anderen anregen
+
+zugrunde liegen, Welche Konseple liegen der Lösung zugrunde?
+
+der Nutzen, ich möchte den Nutzen und Ziele zusammenfassen
+
+Sachverhalte, Nutzen Sie diese Sachverhalte für Verhandlungen
+
+etw gegenüber etw (D) abwägen, Sie müssen die Risiken gegenüber den erwarteten Vorteilen abwägen
+
+gegeneinander abwägen, Architekten müssen Vor- und Nachteile transparent darstellen und gegeneinander abwägen 
+
+Waghalsigkeit, der Unterschied zwischen Mut und Waghalsigkeit (vakmerőség)
+
+Risikoabwägung,
+
+Elfenbeinturm, im Elfenbeiturm stehen
+
+fungieren, Bausteinsichten fungieren als Referenz für Softwerentwickler (működik/szerepel)
+
+ausbalacieren, konkurrierende Einflüsse ausbalancieren
+
+maßgeblich, maßgeblicher Einfluss
+
+hegen, Sie sollten ein tiefes Misstrauen gegenüber solchen Lösungen hegen
+
+Aufschluss, meistens geben die Kernaufgaben bereits Aufschluss
+
+Beschaffenheit, Diese Gruppe von Artefakten bewerten Sie ihrer Beschaffenheit oder Güte nach.
+
+behaftet, Neuentwicklung von Komponenten ist grundsätzlich mit Risiken behaftet.
+
+hinreichend,
+
+eifrig, (buzgó)
+
+änderungsbedürftig, änderungsbedürftige Teile
+
+die Befugnis, Entscheidungsbefugnis (jogosultsag)
+
+Vergabe, Eigenentwicklung oder externe Vergabe
+
+Herausgabe, Herausgabe personenbezogener Daten
+
+der Balang, technische Belange
 
 ,===
