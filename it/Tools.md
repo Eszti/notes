@@ -60,6 +60,7 @@
 - [Eclipser](https://plugins.jetbrains.com/plugin/7153-eclipser)
 - [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation/)
+- [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink)
 
 ## Linux
 
