@@ -2,12 +2,28 @@
 
 ## Compression
 
+- archive file: composed of one or more files with metadata
+
 ### Zip
 
+- archive + compression
+- Store: no compression
 - lossless data compression
 - mostly uses DEFLATE (Huffmann...)
 - up to 4GB files --> zip64 up to 16EB
 - [java library](https://github.com/srikanth-lingala/zip4j)
+
+### Gzip
+
+- based on DEFLATE
+- compressed file or archive
+- usually faster than zip
+- can save more disk space than zip
+- can be combined with tar to create archive compressed files
+
+### Tar
+
+- uncompressed archive file
 
 ## FTP
 
