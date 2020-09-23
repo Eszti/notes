@@ -142,7 +142,7 @@ Conditions
 
 Truthy & Falsy
 
-- falsy: false, 0, "", '', null, undifivned, NaN
+- falsy: false, 0, "", '', null, undefined, NaN
 - truthy: !falsy
 
 Block Scope
