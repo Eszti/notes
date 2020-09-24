@@ -101,4 +101,50 @@ Herausgabe, Herausgabe personenbezogener Daten
 
 der Balang, technische Belange
 
+der Ansatz/die Ansätze,Lösungsansatze (~anopproach)
+
+Anregung, (javaslat)
+
+Erreichung,zur Erreichung allgemeiner Geschäftsziele
+
+angesiedelt sein, Sollten einige Ihrer spezifischen Probleme in eher technischen Bereichen angesiedelt sein...
+
+es mangelt etw (D) an etw, Es mangelt dem Projekt an Geld
+
+unterbleiben/unterblied/ist unterblieben, (elmarad/abbamarad)
+
+aussichtslos,
+
+verschaffen, Feedback verschafft Ihnen mehr Zeit
+
+erarbeiten, Modelle erarbeiten
+
+entschärfen, die Situation entschärfen
+
+der Zukauf, der Zukauf einzelner Komponenten
+
+überarbeiten, die Anforderungen an das System überarbeiten
+
+abzicken, auf die Entwicklung abzicken
+
+überaus, überaus lesenswertes Buch
+
+durchweg, der durchweg positive Effect
+
+die Fundgrube, das Buch ist eine Fundgrube für Heuristiken
+
+etw überstehen, Manchmal übersteht die ursprüngliche Struktur diese Änderungen 
+
+Moloch, In den meisten Fällen entsteht über die Zeit jedoch ein unwartbarer Moloch ohne erkennbare Struktur
+
+verfault, verfaultes Design
+
+Starrheit, es führt zu Starrheit von Entwürfen
+
+Zerbrechlichkeit, 
+
+Wiederverwendbarkeit,
+
+künftig, künftige Änderungen
+
 ,===
