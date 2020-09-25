@@ -43,6 +43,7 @@
 ### Important features
 
 - zen & presentation mode
+- semantic highlighting: Editor -> Code Scheme -> Language Defaults -> semantic highlighting
 
 ### Solved issues
   
