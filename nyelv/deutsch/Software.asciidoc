@@ -147,4 +147,56 @@ Wiederverwendbarkeit,
 
 künftig, künftige Änderungen
 
+unerwüstlich, unerwüstlich gegen Anderungen
+
+Grunsätze, Grundsätze des Softwareengineering
+
+Auslegung, nach meiner Auslegung
+
+Schlichtheit, Schlichtheit und Einfachheit
+
+ausdrücklich, ausdrücklich formuliert
+
+vorwegnehmen,
+
+über etw hinweg, über die Lebensdauer von IT-Systemen hinweg
+
+verstoßen, gegen Regeln verstoßen
+
+abweichen, von Normen abweichen
+
+Einfachheit, 
+
+Kopplung, lose Kopplung
+
+Entkopplung, Entkopplung von Fachdomäne
+
+gravierend, gravierendes Problem
+
+wandlungsfähig, flexibel und wandlungsfähig bleiben
+
+Verantwortlichkeit, klar benannte Verantwortlichkeiten von Bausteinen
+
+Zuständigkeit, 
+
+herausfaktorisieren, Faktorisieren Sie mehrfach benötigte Codestellen heraus
+
+das Gebot, das Gebot der Angemessenheit bezüglich Erklärung
+
+zur Laufzeit, erst zur Laufzeit miteinander verknüpft werden
+
+zur übersetzungszeit,
+
+es besagt, Eine Regel der kognitiven Psy­ chologie besagt...
+
+durchgängig, im System durchgängig ähnlich gelöst
+
+Vorbedingung, Nachbedingung
+
+etw nach sich ziehen, zieht keine Anderungen nach sich
+
+Erwägung, in Erwägung ziehen
+
+kurieren, Allerdings kurieren diese Frameworks nur Abhängigkeiten auf Code­ebene
+
 ,===
