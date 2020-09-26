@@ -20,4 +20,4 @@ what I learned
 
 ### Deutsch
 
-[Software](nyelv/deutsch/Software.asciidoc)
+[Software](nyelv/deutsch/Software.md)
