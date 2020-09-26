@@ -199,4 +199,54 @@ Erwägung, in Erwägung ziehen
 
 kurieren, Allerdings kurieren diese Frameworks nur Abhängigkeiten auf Code­ebene
 
+Verallgemeinerung, Suchen Sie Verallgemeinerungen, um von Spezialfällen zu abstrahieren
+
+sich in jdn hineinversetzen, wir uns in andere Personen hineinversetzen
+
+Unwägbarkeit, Solche Prototypen enthalten aus architektonischer Sicht Risiken und Unwägbarkeiten
+
+abdingbar, Für beide Varianten ist es unabdingbar, dass Sie mögliche Risiken kennen
+
+lauern, Klären Sie, wo Schwierigkeiten, Probleme und Unwägbarkeiten lauern
+
+Abhilfe, mögliche Abhilfen aufzeigen
+
+Herangehensweise, Der WAM-Ansatz beschreibt eine systematische Herangehensweise
+
+handhabbar, Sie müssen für die Arbeitserledigung geeignet und gut handhabbar sein
+
+erbringen, Sie müssen im Vorfeld den Beweis erbringen
+
+verpönt, CORBA war politisch verpönt
+
+Beeinträchtigung, bestimmte Situationen können zu Ausfällen oder Beeinträchtigungen führen können (~Einfluss)
+
+spendieren, Spendieren Sie beispielsweise Ihren Systemen eine robuste Ausnahmebehandlung
+
+Betrachtung, Top-down Betrachtungen
+
+beträchtlich, Meiner Ansicht nach hilft es in der Praxis beträchtlich weiter
+
+Gepflogenheiten, den Gepflogenheiten des Systems entsprechen
+
+sämtlich, sämtliche Eingangsdaten
+
+sprechend, sprechende Namen
+
+Ausgangspunkt,
+
+zeitversetzt, sie können Daten entweder sofort oder auch zeitversetzt weitergeben
+
+erkaufen, Der Vorteil besserer Perfor­mance wird durch die zusätzliche Abhängigkeit erkauft
+
+Untergliederung, Typische Untergliederungen hierfür sind...
+
+infiltrieren, In der Realität infiltriert bei den oben genannten Schichten häufig fachliche Logik die Applikations- und Präsentationsschich
+
+verteilt voneinander, räumlich verteilt voneinander arbeiten
+
+im Hinblick auf, Diese Unterscheidung ist unter anderem im Hinblick auf parallele Verarbeitung sinnvoll
+
+Sachbearbeiter, Ein Sachbearbeiter ruft in seiner Anwendung die Maske mit den Kundenstammdaten auf
+
 ,===
