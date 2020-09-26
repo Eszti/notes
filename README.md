@@ -20,4 +20,4 @@ what I learned
 
 ### Deutsch
 
-[Software](nyelv/deutsch/Software.html)
+[Software](nyelv/deutsch/Software.md)
