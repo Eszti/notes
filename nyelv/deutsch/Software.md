@@ -127,3 +127,31 @@
 | verteilt voneinander | räumlich verteilt voneinander arbeiten |
 | im Hinblick auf | Diese Unterscheidung ist unter anderem im Hinblick auf parallele Verarbeitung sinnvoll |
 | Sachbearbeiter | Ein Sachbearbeiter ruft in seiner Anwendung die Maske mit den Kundenstammdaten auf |
+| mehr als wettmachen | Die damit mögliche Optimierung der Query-Verarbeitung macht häufig den zusätzlichen Aufwand und die höhere Komplexität mehr als wett. |
+| versehen | mit Zeitstempeln versehen gespeichert |
+| Verzahnung | Verzahnung von Entwicklung und Betrieb („DevOps“) |
+| Ausfallsicherheit | |
+| sich durch etw. auszeichnen | Ein verteiltes System zeichnet sich durch Zusammenarbeit von Verarbeitungs- und Speicher­ bausteinen über Kommunikationsnetze hinweg aus. |
+| Schutzwürdigkeit | Es besteht keine besondere Anforderung an die Schutzwürdigkeit der verarbeiteten Daten |
+| etwa | ~ zum Baispiel |
+| bedürfen | Der Entwicklungsprozess ADM adressiert grundsätzlich diese Architekturtypen, bedarf jedoch der organisationsspezifischen Anpassung. |
+| ausgereift | ausgereifte Frameworks |
+| zur Folge haben | Das wiederum hat zur Folge, ... |
+| unsäglich | unsäglich schwierig |
+| obliegen | Diese Aufgabe obliegt hier dem Controller, weil im View praktisch „nichts Schlimmes“ passieren kann. |
+| hochtrabend | hochtrabender Name |
+| von sich selbst verstehen | das versteht sich fast von selbst |
+| Kapselung | Kapselung oder das Geheimnisprinzip missachten |
+| erfragen | den Zustand erfragen |
+| Aspirante | Mein Tipp für ernsthafte DDD-Aspiranten |
+| es schwer haben | Es haben softwarearchitekten manchmal schwer |
+| Durchsetzungsvermögen | Dazu bedarf es einer ausgewogenen Mischung aus Fingerspitzengefühl und Durchsetzungsvermögen, gepaart mit technischer und fachlicher Kompetenz. |
+| Fingerspitzengefühl | |
+| Durchhaltevermögen | |
+| bewährt | einen bewährten Vorschlag finden Sie in Abschnitt |
+| die Güte | die Güte der Dokumentation |
+| im Anschluss daran | Im Anschluss daran stelle ich Ihnen vor ... |
+| tragfähig | Ist diese Architektur für den geplanten Einsatz tragfähig |
+| etw(D) entnehmen | Sie entnehmen dieser Übersicht, dass unterschiedliche Projektbeteiligte völlig unterschiedliche Fragestellungen hinsichtlich der Softwarearchitektur eines Systems haben. |
+| abgeholt werden | Ihre Leser möchten „abgeholt“ werden. |
+| beherzigen | Beherzigen Sie die Grundprinzipien von Dokumentation |
