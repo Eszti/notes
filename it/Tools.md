@@ -94,6 +94,9 @@ git update-index --no-skip-worktree FILE # do not ignore
 
 git remote -v  # find out origin
 git remote set-url origin ORIGIN # set origin
+
+git config --get-regexp alias # list aliases
+git config --global alias.co checkout # set alias
 ```
 
 - [git bash prompt](https://github.com/magicmonty/bash-git-prompt)
