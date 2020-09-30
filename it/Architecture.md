@@ -97,3 +97,9 @@
   - header
   - through links (HATEOS)
 - RAML: RESTful API Modeling Language, YAML-based, for describing RESTful APIs
+
+## Concepts
+
+- AOP (Aspect-oriented Programming)
+  - adding additional behaviour to existing code (without modifying the code)
+  - ~ annotations
