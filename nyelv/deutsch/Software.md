@@ -155,3 +155,27 @@
 | etw(D) entnehmen | Sie entnehmen dieser Übersicht, dass unterschiedliche Projektbeteiligte völlig unterschiedliche Fragestellungen hinsichtlich der Softwarearchitektur eines Systems haben. |
 | abgeholt werden | Ihre Leser möchten „abgeholt“ werden. |
 | beherzigen | Beherzigen Sie die Grundprinzipien von Dokumentation |
+| Mehrdeutigkeit | |
+| Leserschaft | Verwenden Sie das Vokabular Ihrer jeweiligen Leserschaft |
+| Zweckdienlichkeit | Prüfen Sie Dokumente auf Zweckdienlichkeit |
+| Kurzzeitgedächtnis | der Mensch im Kurzzeitgedächtnis nur zwischen fünf und neun Elementen speichern kann |
+| Vielschichtigkeit | Eine einzelne Darstellung vermag die Vielschichtigkeit und Komplexität einer Architektur nicht auszudrücken |
+| in der Pflicht stehen | Sie als Architekt stehen in der Pflicht... |
+| die Angemessenheit | |
+| herausragend | Schnittstellen spielen eine herausragende Rolle |
+| Wechselwirkung | Der Entwurfsprozess der Sichten wird von deren starken Wechselwirkungen und Abhängig­ keiten geprägt. |
+| prägen | |
+| verfeinern | Verfeinern Sie Bausteinsichten Top-down |
+| sich vor etw hüten | hüten Sie sich vor zu vielen Details |
+| sich an etw begeben | Bevor Sie sich an den Entwurf der Bausteinsicht begeben |
+| angelangt sein | Beim Entwurf der Bausteinsicht sind Sie als Architekt sozusagen beim Kern des eigentli­chen Problems angelangt. (érintett) |
+| das Fallbeispiel | |
+| der Betreiber | Für Betreiber von Softwaresystemen dokumentieren Softwarearchitekturen welche Softwarekomponenten auf welchen physischen Systemteilen ablaufen |
+| das Mengengerüst | Hierzu gehören auch Mengengerüste: Benennen und quantifizieren Sie wichtige Größen des Systems... |
+| der Flaschenhals | |
+| der Engpass | Engpass hinsichtlich Performance |
+| Systemlandschaft | verteilte Systemlandschaft |
+| der Leitfaden | |
+| verworfen | verworfene Alternativen |
+| auf der Basis | Ihr System kann auf der Basis von Feedback und konkreter Erfahrung wachsen |
+| einsetzen | in der Praxis einsetzen |
