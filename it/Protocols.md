@@ -11,7 +11,8 @@
 - lossless data compression
 - mostly uses DEFLATE (Huffmann...)
 - up to 4GB files --> zip64 up to 16EB
-- [java library](https://github.com/srikanth-lingala/zip4j)
+- [zip4j](https://github.com/srikanth-lingala/zip4j)
+- [Apache Common Compress](https://commons.apache.org/proper/commons-compress/examples.html)
 
 ### Gzip
 
