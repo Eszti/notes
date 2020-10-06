@@ -96,7 +96,9 @@
   - path: v1/
   - header
   - through links (HATEOS)
-- RAML: RESTful API Modeling Language, YAML-based, for describing RESTful APIs
+
+- [RAML](https://raml.org/) RESTful API Modeling Language, YAML-based, for describing RESTful APIs
+- [Open API](https://www.openapis.org/)
 
 ## Concepts
 
