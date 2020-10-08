@@ -23,12 +23,13 @@ Package Manager
 
 ### Useful
 
-- list key-bindings: `gsettings list-recursively org.gnome.desktop.wm.keybindings | sort | more`
+- `df -h`: free disk space
+- `sudo netstat -tulpn | grep LISTEN`: find out which ports are used
+- `gsettings list-recursively org.gnome.desktop.wm.keybindings | sort | more`: list key-bindings
 - `Alt>Esc` : cycle-windows
 - `Alt>0` : switch in application
 - `google-chrome --app='https://teams.microsoft.com'` start teams in a different window
 - debug: set -o xtrace
-- free disk space: df -h
 
 - create desktop icon
   - in ~/.local/share/applications/ eclipse.desktop
