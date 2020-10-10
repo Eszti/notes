@@ -20,4 +20,5 @@ what I learned
 
 ### Deutsch
 
-[Software](nyelv/deutsch/Software.md)
+[Software Wortschatz](nyelv/deutsch/SoftwareVocab.md)  
+[Deutschkurs Notizen](nyelv/deutsch/DeutschkursNotizen.md)  
