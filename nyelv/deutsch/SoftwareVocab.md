@@ -179,3 +179,46 @@
 | verworfen | verworfene Alternativen |
 | auf der Basis | Ihr System kann auf der Basis von Feedback und konkreter Erfahrung wachsen |
 | einsetzen | in der Praxis einsetzen |
+| an etw scheitern | der Ansatz scheiterte an der Komplexität des gesamten Datenumfelds |
+| zu etw verurteilt sein | ohne Akzeptanz sind manche Werkzeuge zum Scheitern verurteilt |
+| präzise | durch ein klares Metamodell präzise definiert |
+| abschreckend | Das wirkt auf den ersten Blick sehr kompliziert und teilweise abschreckend |
+| praxiserprobt | praxiserprobter Modellierungswerkzeug |
+| Risiko eingehen | Sie gehen daher für die nächsten Jahre kein Risiko ein |
+| der Schnappschuss | stellt insofern einen Schnappschuss des Klassendiagramms dar |
+| Anwendungsfall | Anwendungsfalldiagramm (use-case-diagram) |
+| schachtelbar | Knoten sind schachtelbar |
+| gestrichelt | mit gestrichelter Linie --- |
+| querlesen | Die sollten Sie in jedem Fall „quer“ lesen |
+| die Verteilung | Die technische Systemumgebung zeigen Sie in Verteilungsdiagrammen |
+| die Verletzung | die Verletzung der einzelnen Sicherheitsziele |
+| schlampig | schlampige Lösung |
+| der Hebel | für rechenintensive Aufgaben einen guten Hebel bieten |
+| die Gegenwirkung | |
+| gescheit | Gibt es Beispiele für gescheiterte Lösungsversuche? |
+| bedarfsgerecht | setzen Sie Muster bedarfsgerecht ein |
+| die Veranschaulichung | |
+| der Lotse | Lotse überwacht Flugzeug |
+| Qualitätsmerkmale | Qualitätsmerkmale nach DIN/ISO 9126 |
+| agnostisch | prozessagnostisch |
+| die Erlernbarkeit | |
+| vermarkten | Vermarktung eines bestehenden (eigenen) Systems |
+| intuitiv | Vermarktung eines bestehenden (eigenen) Systems |
+| wünschenswert | Einfachheit oder Schlichtheit sind wünschenswerte Eigenschaften eines jeglichen Soft­wareentwurfs |
+| der Ausklang | |
+| revidieren | Entscheidungen revidieren |
+| die Diskrepanz | |
+| andeuten | Wie die Formulierung weiter oben schon andeutet |
+| verfallen | man verfällt schnell in seine eigene Sprache |
+| Runde drehen | wir müssen noch eine Runde drehen |
+| durchreinen | Sachen nur durchreichen |
+| befürworten |  |
+| bevorzugen | eigenen Code gegenüber wiederverwendetem zu bevorzugen |
+| abstreitbar | Vertraulichkeit, Zugriffsschutz, Nichtabstreitbarkeit |
+| nach etw streben | Streben nach vollständigen und korrekten Anforderungen |
+| zusammenwirken | mit anderen Systemen zusammenwirken |
+| anschaulich | der viele Aspekte rund um NoSQL anschaulich und vertieft erklärt |
+| auf etw abzielen | die auch auf die Darstellung der Ein­flussfaktoren sowie die Entwicklung von Strategien abzielt |
+| gesellig | Fehler sind gesellig |
+| die Überleitung | |
+| zurückwiesen | ~ablehnen |
