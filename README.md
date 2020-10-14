@@ -22,3 +22,7 @@ what I learned
 
 [Software Wortschatz](nyelv/deutsch/SoftwareVocab.md)  
 [Deutschkurs Notizen](nyelv/deutsch/DeutschkursNotizen.md)  
+
+### English
+
+[Software Vocab](nyelv/english/SoftwareVocab.md)  
