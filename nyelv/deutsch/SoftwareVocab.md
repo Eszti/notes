@@ -1,8 +1,8 @@
 # Software Wortschatz
 
-.Table Effektive Softwarearchitekturen: Gernot Starke
+Effektive Softwarearchitekturen: Gernot Starke
 
-| | |
+| Ausdruck | Kontext |
 |---|---|
 | die Vorgehensweise | eine flexible und systematische Vorgehensweise zum Entwurf von Softwarearchitekturen |
 | unterbreiten | wir möchten Ihnen pragmatische Vorschläge unterbreiten |
