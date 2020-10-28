@@ -133,3 +133,7 @@ git config --global alias.co checkout # set alias
 - [LanguageTool](https://languagetool.org/)
   - sends encrypted
   - also for German and other languages
+
+## Visualisation
+
+- [Tableau](https://www.tableau.com/)
