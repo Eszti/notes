@@ -3,7 +3,7 @@
 ## Code Quelity
 
 - [SonarCloud](https://sonarcloud.io/)
-  - bugs, vulnerabilities, coverae...
+  - bugs, vulnerabilities, coverage...
 
 ## Profiling
 
@@ -67,7 +67,6 @@
 
 - [autojump](https://github.com/wting/autojump): instead of aliases
 - Terminator
-- KeePassXC
 - Shutter
 - [fuzzy finder](https://github.com/junegunn/fzf)
   - Ctrl+R shows more results
@@ -111,7 +110,7 @@ git config --global alias.co checkout # set alias
   - [excalidraw](https://excalidraw.com/)
 - UML
   - IntelliJ: AsciiDox plugin [plantuml]
-  - [PlatText](https://www.planttext.com/)
+  - [PlantText](https://www.planttext.com/)
 
 ## Project Management Tools
 
