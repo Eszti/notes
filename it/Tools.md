@@ -109,7 +109,7 @@ git config --global alias.co checkout # set alias
 - drawing
   - [excalidraw](https://excalidraw.com/)
 - UML
-  - IntelliJ: AsciiDox plugin [plantuml]
+  - IntelliJ: AsciiDoc plugin [plantuml]
   - [PlantText](https://www.planttext.com/)
 
 ## Project Management Tools
