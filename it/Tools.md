@@ -138,3 +138,4 @@ git config --global alias.co checkout # set alias
 ## Visualisation
 
 - [Tableau](https://www.tableau.com/)
+- [excalidraw](https://excalidraw.com/)
