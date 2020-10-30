@@ -1,5 +1,38 @@
 # Deutschkurs Notizen
 
+## 29.10
+
+### Fragen
+
+- oder aber
+  - man kann eine Browser-Extension oder aber eine App installieren.
+  - "aber": Hervorhebung
+  - man kann weglassen
+- holen
+  - abholen
+    - damit ihr alle abgeholt werden (umgs.), aber ich muss mich noch einlesen
+  - einholen
+    - Meinung einholen
+    - Er rennt so schnell, dass ich ihn nicht einholen kann. (vkit behozni)
+  - überholen
+    - Der Mercedes überholt den Porsche.
+  - aufholen (Defizit schließen)
+    - Ich muss meinen Rückschritt noch aufholen. (vmit behozni)
+  - nachholen (bepótol)
+    - Ich war lange krank, ich muss noch so viel Themen nachholen.
+  - ausholen
+    - Vor dem Wurf holt er noch einmal aus. (~lendületet vesz)
+    - Ich möchte euch eine Geschichte über meine Eltern erzählen. Dafür muss ich zuerst ein bisschen ausholen. (~távolabbra visszamenni)
+  - erholen
+    - Nach der Reise musste er sich erst einmal erholen.
+
+### Präsentation
+
+- gutes Vokabular
+- Gliederung
+- Nomen-Verben Verbindungen
+- Stattdessen HABEN wir...
+
 ## 09.10
 
 ### Nomen/Verb-Verbindungen
