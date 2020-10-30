@@ -100,6 +100,7 @@ git config --global alias.co checkout # set alias
 
 - [git bash prompt](https://github.com/magicmonty/bash-git-prompt)
 - [Monorepo](https://www.atlassian.com/git/tutorials/monorepos)
+- [husky](https://github.com/typicode/husky) for commit hooks
 
 ## Collaboration Tools
 
