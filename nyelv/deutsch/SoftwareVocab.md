@@ -222,3 +222,4 @@ Effektive Softwarearchitekturen: Gernot Starke
 | gesellig | Fehler sind gesellig |
 | die Überleitung | |
 | zurückwiesen | ~ablehnen |
+| der Aufschlag | der erste Aufschlag |
