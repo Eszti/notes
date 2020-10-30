@@ -1,5 +1,33 @@
 # Deutschkurs Notizen
 
+## 30.10
+
+### Worte
+
+- wortkarg
+- sich ausweisen
+
+### Redewendungen & Sprichwörter
+
+- Redewendung: kompletter Satz
+- Sprichwörter: "Katze im Sack"
+
+- Hunde, die bellen, beißen nicht
+  - amelyik kutya ugat, nem harap
+- Der frühe Vogel fängt den Wurm
+- Morgendstund' hat Gold im Mund
+  - ki korán kel, aranyat lel
+- Jeder Topf findet seinen Deckel/sein Deckelchen
+- Man soll den Tag nicht vor dem Abend loben
+  - nem szabad előre inni a medve bőrére
+- Reden ist Silber, Schweigen ist Gold
+  - hallgatni arany
+- Übung macht den Meister
+  - gyakorlat teszi a mestert
+- Viele Köche verderben den Brei
+- Wer zuletzt lacht, lacht am besten
+- Wenn sich zwei streiten, freut sich der Drite
+
 ## 29.10
 
 ### Fragen
