@@ -1,5 +1,54 @@
 # Deutschkurs Notizen
 
+## 06.11
+
+### Diktat
+
+Köln
+Der Dom lebt
+Der Biologe Bruno Crema hat die Flora am Kölner Dom genauer untersucht. 
+Das Resultat: dort wachsen Pflanzen von allen Kontinenten - nur keine aus Australien. 
+Laut Crema machen die vielen Fugen den Dom ideal für Pflanzen. 
+Darin sammelt sich nämlich organisches Material.
+Aus dem wird Hummus.
+Dort können die Pflanzen dann wachsen.
+An der Süd-Westseite des Doms die, die Sonne mögen.
+Und an der Nordfassade die Pflanzen, für die Schatten besser ist.
+Alles zusammen ist das rund 1000 Tonnen Biomatte.
+
+### Kommunikation
+
+**Gendersensible/Gendergerechte Sprache**
+
+- Entstelung: torzulás
+- Verrenkung: kibicsaklás
+- es ist vollkommen schnuppe
+- das generische Mankulinum
+
+### Grammatik
+
+**Zweistellige restriktive Konnektoren**
+
+- es sei denn
+  - Ich gehe heute Abend zum Spazieren, es sei denn es regnet.
+  - Ich bleibe zu Hause, es sei denn die Corona-Maßnahmen werden gelockert.
+- es sei denn, dass 
+  - Ich gehe heute Abend zum Spazieren, es sei denn, dass es regnet.
+- außer 
+  - Alle waren püntlich, außer dir (du?)
+    - Ich bleibe zu Hause, außer die Corona-Maßnahmen werden gelockert.
+- außer wenn 
+  - Ich würde es jetzt machen, außer wenn du sagst, ich soll es nicht.
+  - Ich bleibe zu Hause, außer wenn die Corona-Maßnahmen gelockert werden.
+- außer dass 
+  - Ich denke, es ist die gleiche Geschichte, außer dass es sich hier um mehr Geld handelt.
+  - Die beiden Hotelzimmer sind fast gleich, außer dass Sie im teureren Zimmer Alpenblick haben.  
+  - Außer dass Sie im teureren Zimmer Alpenblick haben, sind die beiden Hotelzimmer fast gleich.  
+- nur dass 
+  - Ich denke, es ist die gleiche Geschichte, nur dass es sich hier um mehr Geld handelt.
+  - Die beiden Hotelzimmer sind fast gleich, nur dass Sie im teureren Zimmer Alpenblick haben.
+  - nie damit anfangen
+
 ## 05.11
 
 ### Redewendungen
