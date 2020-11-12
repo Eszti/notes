@@ -1,5 +1,56 @@
 # Deutschkurs Notizen
 
+## 12.11.
+
+### Grammatik - jemand + andere
+
+- Er hat seinen Computer einem anderen gegeben.
+- Duden
+  - Er sieht aus wie **jemand anders**.
+  - Das Buch hab ich von **jemand anders** bekommen.
+  - Schickst du das bitte an **jemand anders**?
+- Akk & Dativ betonen
+  - Das Buch habe ich von **jemand** anderm bekommen.
+  - Schickst du das bitte an **jemand** anderen?
+- jemand bleibt immer jemand
+- anders kann angepasst werden
+
+### Diskussion - Elternführerschein
+
+- Wortschatz
+  - die Skeptiker
+  - von Professionellen (von Profis)
+  - eine Frage an mich
+
+### Hören
+
+- hören
+  - Ich höre einen Vogel singen.
+- abhören (mit Gerät)
+  - Die Stasi hört meinen Nachbarn ab.
+  - Der Doktor hört meine Lunge ab.
+- anhören (sich(D) etw anhören)
+  - Ich höre mir ein Lied an.
+  - Ich muss mir deine Vorwürfe nicht anhören.
+- aufhören
+  - Ich habe mit Leistungssport aufgehört. (mit etw aufhören)
+- herhören
+  - Hör mal her! (Hör mal zu!)
+- hinhören
+  - Hör gut hin. Kannst du den Vogel singen hören?
+- mithören
+  - Kannst du das noch einmal wiederholen? Ich habe nicht mitgehört.
+  - Ich habe das Gespräch (zufällig) mitgehört.
+- weghören
+  - Das ist ein privates Gespräch. Hör bitte kurz weg.
+- zuhören
+  - Hört ihr mir eigentlich zu?
+  - Du musst dem Lehrer gut zuhören.
+- erhören
+  - Gott hat meine Gebete erhört.
+- verhören
+  - Ein Zeute wurde von Polizisten verhört. (jemanden richterlich, polizeilich befragen, das Verhör)
+
 ## 06.11
 
 ### Diktat
