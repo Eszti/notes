@@ -1,6 +1,101 @@
 # Deutschkurs Notizen
 
-## 12.11.
+## 13.11 (T)
+
+### Nomen-Verb Verbindungen
+
+- jdm die Schuld geben: beschuldigen
+- auf etw Anspruch erheben: beanspruchen
+- Mitleid haben/hegen: bedauern, bemitleiden
+- einen Freund haben: mit jdm befreundet sein
+- als Zeuge aussagen: bezeugen (tanúskodik)
+- einen urkundlichen Beweis ausstellen: etw beurkunden (mit Urkunde beweisen)
+- auf einem Gebiet besonders bewandert sein
+- jdn bewaffnen
+- bewältigen
+- jdn in seine Obhut nehmen: jdn betreuen
+- ein Geständnis ablegen: sich zu etw bekennen (vallomást tesz)
+- jdm zur Last fallen: jdn belästigen/belasten (Lärmbelästigung)
+- gegen jdn Krieg führen: sich mit jdm bekriegen
+
+### Diskussion - Bedeutung der Heimat
+
+- Halt geben: ~ Unterstützung, fester Punkt
+- [Thema, Seite 28](https://www.goethe.de/lrn/pro/c2-neu/C2_Modellsatz.pdf)
+- HF: Text dazu
+
+- Eszter
+  - Erinnerungen
+  - Orte, Gerüche
+  - Familie
+  - Sicherheit: wo ich liebe finde
+- Carlos
+  - Familie
+  - Kindheit
+  - Muttersprache reden können
+  - Essen von Mama
+  - nichts Politisches
+  - DE & ES sind unterschiedlich, nicht vereinheitlichbar
+  - in die Heimat fahren: gut, glücklich, entspannt
+  - Sicherheit: Muttersprache
+
+- 1)
+  - Carlos: stimmt zu, wegen Muttersprache
+  - Eszter: nicht, politisch stimmt nicht, und Abnabelung von den Eltern -> musst dein Glück finden
+- 2)
+  - nicht veraltet, Heimat bleibt Heimat
+  - Grenzen sind nicht mehr wichtig -> das macht Weltbürgern
+- 3)
+  - bleibt besonders, aber nicht weil die Welt sich vereinheitlicht
+
+### Präfixe - nehmen
+
+- nehmen
+  - ich nehme (mir) das Geld
+- abnehmen
+  - Ich habe 5 Kilo abgenommen
+  - Der Arzt nimmt mir Blut ab. (Blutabnahme)
+- annehmen
+  - Ich nehme an, dass Scott noch immer noch in einem Meeting ist. (die Annahme)
+  - Ich habe das Paket von Amazon angenommen.
+- aufnehmen
+  - Der Vortrag wird aufgenommen. (aufgezeichnet)
+  - Der Schüler wurde in der Schule aufgenommen.
+  - Ein Waisenkind aufnehmen
+- ausnehmen
+  - Ich habe den Fisch ausgenommen. (kibelez)
+  - Meine Ex-Frau hat mich ausgenommen. (kisemmiz)
+- einnehmen
+  - Ich nehme meine Tabletten jeden Morgen ein. (bevesz)
+  - Durch das Geschäft nehme ich viel Geld ein. (Einnahme - bevétel)
+- mitnehmen
+  - Darf ich einen Freund zur Party mitnehmen.
+  - Ich nimm mal das mit.
+- teilnehmen
+  - Hast du an dem Meeting teilgenommen?
+- vornehmen
+  - Ich nehme mir für nächstes Jahr vor, mehr Sport zu machen. (Gute Vorsetze)
+- wegnehmen
+  - Ich nehme dem Kind das Eis weg.
+- zunehmen
+  - Ich habe in der Quarantäne zugenommen.
+  - Die Kriminalitsrate nimmt zu. (haben zugenommen, sind gestiegen, sind gesunken, haben abgenommen)
+- zurücknehmen
+  - Ich nehme meine Kritik an dir zurück.
+- benehmen
+  - Das Kind benimmt sich schlecht. (verhält sich schlecht)
+- entnehmen
+  - Der Arzt entnimmt eine Gewebeprobe.
+  - Ich entnehme deiner Aussage, dass du unzufrieden bist. (raus hören)
+- vernehmen
+  - Der Zeuge wird von der Polizei vernommen. (gerichtlich oder polizeilich befragt werden)
+  - Ich habe Hilferufe vernommen. (gehört, gehoben)
+
+### Grammatik - Modalpartiken
+
+  - [doch-mal-schon Übung](https://www.deutsch-perfekt.com/deutsch-ueben/modalpartikeln)
+
+## 12.11 (M)
 
 ### Grammatik - jemand + andere
 
@@ -22,7 +117,7 @@
   - von Professionellen (von Profis)
   - eine Frage an mich
 
-### Hören
+### Präfixen - hören
 
 - hören
   - Ich höre einen Vogel singen.
@@ -51,7 +146,7 @@
 - verhören
   - Ein Zeute wurde von Polizisten verhört. (jemanden richterlich, polizeilich befragen, das Verhör)
 
-## 06.11
+## 06.11 (T)
 
 ### Diktat
 
@@ -76,9 +171,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 - es ist vollkommen schnuppe
 - das generische Mankulinum
 
-### Grammatik
-
-**Zweistellige restriktive Konnektoren**
+### Grammatik - Zweistellige restriktive Konnektoren
 
 - es sei denn
   - Ich gehe heute Abend zum Spazieren, es sei denn es regnet.
@@ -100,7 +193,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
   - Die beiden Hotelzimmer sind fast gleich, nur dass Sie im teureren Zimmer Alpenblick haben.
   - nie damit anfangen
 
-## 05.11
+## 05.11 (M)
 
 ### Redewendungen
 
@@ -116,7 +209,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 - Erzählen Sie mir doch nichts vom Pferd
   - ne beszéljen nekem baromságokat
 
-### Legen
+### Präfixen - legen
 
 - ablegen
   - ein Spieler legt eine Karte ab
@@ -178,7 +271,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
   - er hat mein Auto zerlegt (beschädigt)
   - einen Schrank zerlegen (in seine Einzelteile)
 
-### Vocab
+### Wortschatz
 
 - Übersprungshandlung
 - Beschwichtigung
@@ -188,9 +281,9 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
   - vielmehr
   - nämlich: Es geht hier nicht darum was wir wollen, vielmehr was anderen über uns denken.
 
-## 30.10
+## 30.10 (T)
 
-### Worte
+### Wortschatz
 
 - wortkarg
 - sich ausweisen
@@ -216,16 +309,16 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 - Wer zuletzt lacht, lacht am besten
 - Wenn sich zwei streiten, freut sich der Drite
 
-## 29.10
+## 29.10 (M)
 
-### Fragen
+### oder aber
 
 - oder aber
   - man kann eine Browser-Extension oder aber eine App installieren.
   - "aber": Hervorhebung
   - man kann weglassen
 
-## Holen
+## Präfixen - holen
 
 - abholen
   - damit ihr alle abgeholt werden (umgs.), aber ich muss mich noch einlesen
@@ -251,7 +344,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 - Nomen-Verben Verbindungen
 - Stattdessen HABEN wir...
 
-## 09.10
+## 09.10 (M)
 
 ### Nomen/Verb-Verbindungen
 
@@ -273,9 +366,9 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 
 aufbringen, ausdrücken, aussprechen, bewahren, einräumen, erheben, erleiden, führen, hegen, leisten, schenken, unterlaufen, unternehmen, verlieren, ziehen
 
-## 02.10
+## 02.10 (M)
 
-### laut, zufolge, nach
+### Kollokationen - laut, zufolge, nach
 
 - Berichten zufolge
 - ihm zufolge
@@ -289,7 +382,7 @@ aufbringen, ausdrücken, aussprechen, bewahren, einräumen, erheben, erleiden, f
 - laut Umweltschützern
 - laut Meldungen
 
-### Plusquamperfekt
+### Grammatik - Plusquamperfekt
 
 - bevor, nachdem, als, da ~ dann
 - ich habe/hatte das gemacht gehabt ~ hatte gemacht
