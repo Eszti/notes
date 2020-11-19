@@ -1,5 +1,67 @@
 # Deutschkurs Notizen
 
+## 19.11 (M)
+
+### Worte die nur in der deutschen Sprache existieren
+
+- [Quelle](https://www.deutsch-perfekt.com/deutsch-lesen/diese-zehn-woerter-gibt-es-nur-im-deutschen)
+- da bin ich überfragt = ich habe keien Ahnung
+- Schnapsidee
+- Kummerspeck: Kilos die man wegen Sorgen bekommen hat
+- der innere Schweinehund: der dich zB vom Joggen aufhält
+- das Fremdschämen: zum Beispiel wenn Leute im öffentlichen ewig lang küssen
+- die Geborgenheit: meghittség
+- Brückentag: puente
+- Kaffekuchen, Kaffeeklatsch, Abendbrot, Brotzeit
+
+### Redewendungen
+
+- Reden Sie nicht um den heißen Brei herum! - Aufforderung, eine klare Antwort auf eine zuvor gestellten Frage zu geben und nicht auszuweichen. 
+- Wes’ Brot ich ess’, des’ Lied ich sing’! - Anschuldigung, dass der Gesprächspartner nicht neutral ist und nach bestem Gewissen antwortet, sondern die Position einer bestimmten Interessengruppe vertritt, von der er abhängig ist
+- Jetzt wollen Sie uns aber wirklich einen Bären aufbinden. - Vermutung, dass der Gesprächspartner jemanden (scherzhaft) anlügt, dass er Unsinn erzählt, oder jemanden dazu bringt, etwas Unwahres zu glauben
+- Sie wollen uns hier (anscheinend) ein „X“ für ein „U“ vormachen. - Vorwurf, das jemand die Tatsachen verdreht 
+- Nun lassen Sie aber mal die Kuh (die Kirche) im Dorf! - Bitte an den Gesprächspartner, nicht zu übertreiben / eine Sache nicht unmäßig zu dramatisieren
+- Das ist nun wirklich unter der Gürtellinie. - Vorwurf an den Gesprächspartner, sich unfair oder beleidigend verhalten zu haben
+- Das schlägt dem Fass den Boden aus. - Der Redebeitrag des Gesprächspartners ist empörend / unverschämt / eine Frechheit 
+- Kriegen Sie sich mal wieder ein! - Bitte an den Gesprächspartner, wieder zu einem sachlichen und weniger emotionalen Gesprächston zurückzukehren / komm mal wieder runter
+- Alles nur heiße Luft, die Sie hier ablassen. - Vorwurf an den Gesprächspartner, dass die von ihm angekündigten Handlungen/Versprechen nur leere Worte sind.
+- Das ist aber reichlich weit hergeholt. - Ausdruck dafür, dass man die Argumentation des Gesprächspartners für sehr konstruiert hält 
+
+### Modelverben mit zwei Infinitiven
+
+- sehen, gehen, lernen, hören, lassen, bleiben
+
+### Präfixe - setzen
+
+- setzen
+  - Ich setze mich auf den Stuhl
+  - Ich setze das Kind auf den Stuhl
+- absetzen
+  - der Absatz: sarok (pl magassarkú), áruforgalom, bekezdés szövegben (Paragraf)
+  - etwas von der Steuer absetzen
+  - Kot abstezen
+  - einen Notruf absetzen
+  - Ich habe ihn am Bahnhof abgesetzt.
+- ansetzen
+  - der Ansatz ~ approch
+  - einen Auftragsmörder auf ihn ansetzen
+  - ich setze nocch einmal an, wo ich aufgehört habe (weitermachen)
+  - einen Termin ansetzen (einplanen, vereinbaren)
+- aufsetzen
+  - der Aufsatz: fogalmazás, USB-Aufsatz
+  - einen Service/Rechner aufsetzen (IT)
+  - einen Vertrag aufsetzen
+  - eine Mütze aufsetzen
+  - eine Kanne Tee aufsetzen
+- aussetzen
+  - Pflanzen aussetzen (auspflanzen)
+  - Du musst eine Runde aussetzen (beim Spiel)
+  - Er setzt mich der Kritik meiner Kollegen aus: kritizál 
+  - Er hat den Hund einfach ausgesetzt
+- besetzen
+  - Die Toilette/Telefonleitung ist besetzt
+  - Die Stelle wurde besetzt
+
 ## 13.11 (T)
 
 ### Nomen-Verb Verbindungen
