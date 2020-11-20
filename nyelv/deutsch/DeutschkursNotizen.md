@@ -1,6 +1,57 @@
 # Deutschkurs Notizen
 
-## 19.11 (M)
+## T - 20.11
+
+### Vokabeln - Hausaufgabe
+
+- die Zwietracht: viszály
+
+### Redewendungen
+
+- Das bringt mich auf die Palme. = Das regt mich auf. (ugs.)
+- Das lässt mich völlig kalt. = Das interessiert mich nicht. (ugs.)
+- Das sind nur kleine Fische. = Das sind keine großen Probleme. (ugs.)
+- Er hat ein Brett vor dem Kopf. = Er versteht nichts. (ugs.)
+- Er hat eine lange Leitung. = Er braucht lange, um etwas zu verstehen. (ugs.)
+- Er hat mir endlich reinen Wein eingeschenkt. = Er hat mir endlich die Wahrheit gesagt.
+- Er muss die Beine in die Hand nehmen. = Er muss sich beeilen. 
+- Er spuckt große Töne. = Er gibt an.
+- Er will immer mit dem Kopf durch die Wand. = Er will immer alles mit Gewalt erreichen.
+- Ich bin aus allen Wolken gefallen. =  Ich war sehr überrascht. 
+- Ich bin ihm auf den Schlips getreten. = Ich habe ihn beleidigt. 
+- Ich habe mir den Mund verbrannt. = Ich habe etwas gesagt, was ich lieber nicht hätte sagen sollen.
+- Er hat sich übers Ohr hauen lassen. = Man hat ihn betrogen. 
+- Mir fällt die Decke auf den Kopf. = Ich langweile mich. 
+- Mir geht ein Licht auf. = Ich verstehe.  
+- Sie lässt die Flügel hängen. =  Sie hat keinen Mut mehr.
+- Sie tanzt immer aus der Reihe. = Sie beachtet die Regeln nicht.  
+
+### Grammatik - Pronominaladverbien
+
+- Worüber? Über wen?
+- Wir reden **darüber**, dass
+- Nein, darüber/über sie haben wir noch nicht gesprochen.
+- Relativpronomen
+  - Das ist die Frau, über die...
+  - Das ist das Thema, worüber wir...
+- Wir wollten eine Party organisieren, aber dann haben wir nicht weiter darüber geredet
+
+### Nomen-Verb Verbindungen
+
+- Funktionsverb, Funktionsverbgefüge, einfaches Verb
+- bringen 
+  - zum Abschluss bringen - abschließen
+  - unter Kontrolle bringen - kontrollieren
+  - zur Sprache bringen - ansprechen
+  - in Verlegenheit bringen - verlegen machen: zavarba hoz
+
+### Verben mit Präpositionen
+
+- angewiesen sein auf etw
+- erfreut sein über etw
+- bemüht sein um etw
+
+## M - 19.11
 
 ### Worte die nur in der deutschen Sprache existieren
 
@@ -62,7 +113,7 @@
   - Die Toilette/Telefonleitung ist besetzt
   - Die Stelle wurde besetzt
 
-## 13.11 (T)
+## T- 13.11
 
 ### Nomen-Verb Verbindungen
 
@@ -157,7 +208,7 @@
 
   - [doch-mal-schon Übung](https://www.deutsch-perfekt.com/deutsch-ueben/modalpartikeln)
 
-## 12.11 (M)
+## M - 12.11
 
 ### Grammatik - jemand + andere
 
@@ -208,7 +259,7 @@
 - verhören
   - Ein Zeute wurde von Polizisten verhört. (jemanden richterlich, polizeilich befragen, das Verhör)
 
-## 06.11 (T)
+## T - 06.11
 
 ### Diktat
 
@@ -224,10 +275,9 @@ An der Süd-Westseite des Doms die, die Sonne mögen.
 Und an der Nordfassade die Pflanzen, für die Schatten besser ist.
 Alles zusammen ist das rund 1000 Tonnen Biomatte.
 
-### Kommunikation
+### Kommunikation - Gendersensible/Gendergerechte Sprache
 
-**Gendersensible/Gendergerechte Sprache**
-
+- [Genderneutrales Deutsch](https://geschlechtsneutral.net/)
 - Entstelung: torzulás
 - Verrenkung: kibicsaklás
 - es ist vollkommen schnuppe
@@ -255,7 +305,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
   - Die beiden Hotelzimmer sind fast gleich, nur dass Sie im teureren Zimmer Alpenblick haben.
   - nie damit anfangen
 
-## 05.11 (M)
+## M - 05.11
 
 ### Redewendungen
 
@@ -343,7 +393,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
   - vielmehr
   - nämlich: Es geht hier nicht darum was wir wollen, vielmehr was anderen über uns denken.
 
-## 30.10 (T)
+## T - 30.10
 
 ### Wortschatz
 
@@ -371,7 +421,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 - Wer zuletzt lacht, lacht am besten
 - Wenn sich zwei streiten, freut sich der Drite
 
-## 29.10 (M)
+## M - 29.10
 
 ### oder aber
 
@@ -380,7 +430,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
   - "aber": Hervorhebung
   - man kann weglassen
 
-## Präfixen - holen
+### Präfixen - holen
 
 - abholen
   - damit ihr alle abgeholt werden (umgs.), aber ich muss mich noch einlesen
@@ -406,7 +456,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 - Nomen-Verben Verbindungen
 - Stattdessen HABEN wir...
 
-## 09.10 (M)
+## M - 09.10
 
 ### Nomen/Verb-Verbindungen
 
@@ -428,7 +478,7 @@ Alles zusammen ist das rund 1000 Tonnen Biomatte.
 
 aufbringen, ausdrücken, aussprechen, bewahren, einräumen, erheben, erleiden, führen, hegen, leisten, schenken, unterlaufen, unternehmen, verlieren, ziehen
 
-## 02.10 (M)
+## M - 02.10
 
 ### Kollokationen - laut, zufolge, nach
 
