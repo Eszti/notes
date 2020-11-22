@@ -58,3 +58,13 @@
   - `value as number`
 - control flow type analysis
   - always checks against the most specific type
+
+## Writing better functions with TypeScript
+
+- any: no type checking (noImplicitAny tsconfig)
+- function foo(a: number, message?: string): string
+  - js: all params are optional - ts: all params are mandatory
+  - message?: optional param
+  - default-initialized params: greeting: string = "hi"
+- arrow functions
+  - x => x * x
