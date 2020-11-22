@@ -18,6 +18,14 @@
 - [atom](https://atom.io/)
 - [sublime](https://www.sublimetext.com/)
 
+## Sublime Text
+
+- cheat sheet
+  - Ctrl+Shift+D: duplicate line
+  - Ctrl+Shift+K: delete line
+  - Ctrl+D: select next occurence
+  - Ctrl + click: multiple cursors
+
 ## IntelliJ
 
 ### Important hotkeys
