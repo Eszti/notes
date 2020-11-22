@@ -51,7 +51,7 @@
   - AZ
     - smaller units a region operates with
     - each region has min 2 AZs
-    - min one data center / AZ
+    - min one data center / AZs
     - located in the region
     - no SPOF...
     - to guarantee high availability: deploy to multiple AZs
