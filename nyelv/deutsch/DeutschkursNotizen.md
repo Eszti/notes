@@ -1,5 +1,140 @@
 # Deutschkurs Notizen
 
+## T - 04.12
+
+### Grammatik - Relativsätze
+
+- Ein Satz, der mit einem Relativpronomen anfängt.
+- Das ist der Mann, mit dessen Sohn ich gesprochen habe.
+
+### Grammatik: n-Deklination
+
+- Persone
+- Nationalitäten
+- Tiere
+- Endungen: -and, -ant, -ent, -ist (meistens)
+
+### Nomen - Verb Verbindungen
+
+- setzen
+  - hmd über etw in Kenntnis setzen: informieren
+  - sich zum Ziel setzen: etw anstreben
+
+## M - 03.12
+
+### Grammatik - Kommata
+
+- Semikolon (; Stichpunkt)
+- Gedankenstrich (-)
+- Doppelpunkt (:) 
+- Anführungszeichen ("Gänsefüßchen")
+- Komma (, der Beistrich): vor "und" und "oder" kein Komma
+
+- heraufbeschwören: felidéz
+
+### Wortschatz
+
+- erwachen
+- aufreißen: etw. schnell aufmachen
+- besehen: etw. sehr genau ansehen
+- nagen: Nagetiere
+- aufschwingen: belibben
+- quietschen: nyikorog, Quietschieball
+- schleichen: oson, mászik
+- stapfen: bei gehen mit den Füßenfest auftreten
+- weisen: der Wegweiser
+- einen Blick wechsel
+- knirschen: ropogtat, csikorog
+- katapulieren: 
+
+## T - 27.11
+
+### Redemittel für Diskussion
+
+- [Zusammenfassung](https://www.wirtschaftsdeutsch.de/lehrmaterialien/redemittel-diskussion-c1-kurzfassung.pdf)
+- ich verbitte mir diese Unterstellungen
+- ich würde gerne noch einmal den Gedanken von vorhin aufgreifen
+- Da muss ich aber jetzt doch kurz einhaken
+- Ich möchte darauf bestehen, dass ... (ragaszkodik valamihez)
+
+### Plural - irregular
+
+- das Album - die Alben
+- der Atlas - die Atlasse/Atlanten
+- der Embryo - die Embryonen/Embryos
+- die Firma - die Firmen
+- der Globus - die Globen/Globusse
+- der Kaktus - die Kakteen
+- das Komma - die Kommata/Kommas
+- das Lexikon - die Lexika
+- das Museum - die Museen
+- das Virus - die Viren (das Virus: das Coronavirus, der Virus: der Malware)
+
+### Nomen-Verb Verbindungen
+
+- stellen
+  - einen Antrag stellen: beantragen
+    - einen Urlaubsantrag stellen
+    - einen Antrag auf Sozialhilfe stellen
+  - zur Diskussion stellen: ansprechen
+  - eine Frage stellen: anfragen
+  - zur Verfügung stellen: anbieten
+    - Stühle für die Feier zur Verfügung stellen (verfügbar machen)
+    - Information stehen zur Verfügung (verfüght über)
+
+## M - 26.11
+
+### Grammatik - Pluralformen
+
+- [Université de Liège](https://www.atlas-alltagssprache.de/runde-5/f05a/)
+
+- Lateinische Wörter
+  - Praktikum - Praktika
+  - Antibiotikus - Antibiotika
+- +e
+  - die meisten maskulinen und neutralen Nomen: Tag, Beruf, Schuh, Jahr, Heft, Regal..
+  - maskuline Nomen haben häufig Umlaut: Ball, Stuhl, Korb...
+  - feminine Nomen haben immer Umlaut: Kuh, Nacht, Gans..
+- +(e)n
+  - die meisten femininen Wörter: Frau, Lampe, Tasche
+  - maskuline Nomen der n-Deklination: Löwe, Junge, Name...
+  - Fremdwörter: Museum, Universität, Thema...
+  - einige neutralen: Bett, Auge...
+  - meist ohne Umlaut
+- +s
+  - -a, -o, -i oder -o Endung und Abkürzungen: CD, Restaurant, Foto...
+- +er
+  - die meisten neutralen Nomen: Haus, Gesicht, Licht, Wort (gelegentlich, poetisch oder in Redewendungen Worte), Bild...
+  - einige maskuline: Geist...
+- nichts
+  - maskuline Nomen, die auf -er, -en, -el enden: Computer, Spaten, Löffel...
+  - manchmal mit Umlaut: Apfel, Vogel, Garten...
+  - neutrale Nomen, die auf -chen, -lein enden: Zeichen, Mädchen, Kindlein...
+
+### Verben mit Präpositionen
+
+- angesehen sein bei
+  - anerkannt sein
+  - Der Mitarbeiter ist wegen seiner kreativen Ideen bei seinen Kollegen angesehen.
+- entsetzt sein über
+  - schockiert, empört
+  - Ich bin über die steigenden Fallzahlen entsetzt.
+- beunruhigt über
+  - sich Sorgen machen, besorgt sein
+  - Ich bin über die zunehmenden Fallzahlen beunruhigt.
+- besessen von
+  - begeistert
+  - Er ist von Autos besessen. Er ist besessen von der Idee, sich selbstständig zu machen.
+- schädlich für
+- fähig zu
+- blass vor
+- verwundert über
+- überzeugt von
+
+### Kommate
+
+- vor und: muss nicht
+
 ## T - 20.11
 
 ### Vokabeln - Hausaufgabe
