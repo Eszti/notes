@@ -1,5 +1,22 @@
 # Deutschkurs Notizen
 
+## T - 11.12
+
+### Gerundiv
+
+- ein dringend zu lösendes Problem
+- Gerundium: smoking (nur im Englischen)
+- mit -lich oder -bar
+
+### Grammatik - Reflexive Verben
+
+- echte (funktioniert nur mit sich selbst)
+  - sich ausruhen
+  - sich etwas leisten können
+- unechte
+  - sich anziehen: ich ziehe mein Baby an
+- wenn es mit einem Akk-Object steht, sich immer in Dativ
+
 ## T - 04.12
 
 ### Grammatik - Relativsätze
