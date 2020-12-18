@@ -86,6 +86,8 @@
   - switch between multiple python versions (e.g. 2.7, 3.8...)
 - [venv](https://docs.python.org/3/library/venv.html)
   - to manage different virtual environments (install different packages) of a single python version
+    - `python -m venv ./venv`
+    - `source ./venv/bin/activate`
   - only works for Python3.3+
 
 ### Packages
