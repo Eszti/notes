@@ -60,16 +60,25 @@
   - [Choose Runtime plugin](https://plugins.jetbrains.com/plugin/12836-choose-runtime)
   - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
   - mouse selects text autmatically: touch screen problem, touch screen -> works again
+- DO NOT INSTALL requiremnts plugin for python !!!
 
 ### Important plugins & extra tools
 
 - [JenBeans Toolbox](https://www.jetbrains.com/toolbox-app/)
-- [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
-- [Eclipser](https://plugins.jetbrains.com/plugin/7153-eclipser)
-- [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation/)
+
+Design
+- [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
+
+Git
+- [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink)
+
+
+Collaborative
+- [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
+- [Code With Me](https://plugins.jetbrains.com/plugin/14896-code-with-me)
 
 ## Linux
 
