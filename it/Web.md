@@ -139,6 +139,10 @@
   - PureComponent: only renders that changed
   - Redux: store
   - Formik: schema
+  - Testing
+    - [RTL - React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+    - [enzyme](https://enzymejs.github.io/enzyme/)
+    - [react hooks testing library](https://react-hooks-testing-library.com/reference/api)
 
 - [Angular](https://github.com/angular/angular)
   - syntax: html + ts
