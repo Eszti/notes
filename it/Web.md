@@ -106,6 +106,9 @@
   - package.json: ~metadata to the project
   - ~ alias for `npm run`
 
+- [bower](https://bower.io/)
+  - only for front-end (html, css, js) packages
+
 ### JS compilers
 
 - [Babel](https://github.com/babel/babel)
@@ -220,6 +223,14 @@
 - [Cucumber](https://cucumber.io/)
   - write human readable tests
   - mostly for e2e
+
+## UI
+
+- [Storybook](https://storybook.js.org/)
+  - to design and showcase components
+  - React, Angular, Vue
+  - story: captures a rendered state
+  - can show code examples
 
 ## Browser
 

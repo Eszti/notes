@@ -57,7 +57,8 @@
   
 - broken markdown (javaFX error)
   - choose another java runtime for the IDE
-  - [Choose Runtime plugin](https://plugins.jetbrains.com/plugin/12836-choose-runtime)
+    - [Choose Runtime plugin](https://plugins.jetbrains.com/plugin/12836-choose-runtime)
+    - or modify ~/.config/JetBrains/IntelliJIdea2020.3/idea.jdk manually
   - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
   - mouse selects text autmatically: touch screen problem, touch screen -> works again
 - DO NOT INSTALL requiremnts plugin for python !!!
@@ -107,6 +108,7 @@ git push -u origin HEAD # push new branch & set origin
 
 git update-index --skip-worktree FILE # ignore locally
 git update-index --no-skip-worktree FILE # do not ignore
+git ls-files -v . | grep ^S # list ignored files
 
 git remote -v  # find out origin
 git remote set-url origin ORIGIN # set origin

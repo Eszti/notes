@@ -11,7 +11,19 @@
 
 ## Coding syle
 
-- [prettier](https://prettier.io/): code formatter, supports mainly front-end languages
+#### Formatters
+
+- solely how the code should look like
+
+- [prettier](https://prettier.io/)
+	- opinionated code formatter
+	
+#### Linters
+
+- for finding bugs
+
+- [ESLint](https://eslint.org/)
+	- for finding bugs
 
 ## RFC
 
