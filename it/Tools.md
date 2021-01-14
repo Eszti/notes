@@ -18,7 +18,7 @@
 - [atom](https://atom.io/)
 - [sublime](https://www.sublimetext.com/)
 
-## Sublime Text
+### Sublime Text
 
 - cheat sheet
   - Ctrl+Shift+D: duplicate line
@@ -26,9 +26,9 @@
   - Ctrl+D: select next occurence
   - Ctrl + click: multiple cursors
 
-## IntelliJ
+### IntelliJ
 
-### Important hotkeys
+#### Important hotkeys
 
 - navigate back/forward
   - [alt+shift+left/right]
@@ -48,12 +48,12 @@
   - [Ctrl+Shift+F7] highlight all usages
   - [F3/Ctrl+F3] navigate
 
-### Important features
+#### Important features
 
 - zen & presentation mode
 - semantic highlighting: Editor -> Code Scheme -> Language Defaults -> semantic highlighting
 
-### Solved issues
+#### Solved issues
   
 - broken markdown (javaFX error)
   - choose another java runtime for the IDE
@@ -63,7 +63,7 @@
   - mouse selects text autmatically: touch screen problem, touch screen -> works again
 - DO NOT INSTALL requiremnts plugin for python !!!
 
-### Important plugins & extra tools
+#### Important plugins & extra tools
 
 - [JenBeans Toolbox](https://www.jetbrains.com/toolbox-app/)
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)

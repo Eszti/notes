@@ -23,16 +23,25 @@ Package Manager
 
 ### Useful
 
-- `df -h`: free disk space
-- `sudo netstat -tulpn | grep LISTEN`: find out which ports are used
-- `gsettings list-recursively org.gnome.desktop.wm.keybindings | sort | more`: list key-bindings
+#### Commands
+
+```bash
+df -h # free disk space
+
+sudo netstat -tulpn | grep LISTEN # find out which ports are used
+
+gsettings list-recursively org.gnome.desktop.wm.keybindings | sort | more # list key-bindings
+
+google-chrome --app='https://teams.microsoft.com' # start teams in a different window
+
+set -x # prints all command before executing them
+set -o xtrace # debug
+```
+
 - `Alt>Esc` : cycle-windows
 - `Alt>0` : switch in application
-- `google-chrome --app='https://teams.microsoft.com'` start teams in a different window
-- debug: set -o xtrace
-
 - create desktop icon
-  - in ~/.local/share/applications/ eclipse.desktop
+  - in `~/.local/share/applications/` eclipse.desktop
 
 ``` conf
 [Desktop Entry]
@@ -67,7 +76,7 @@ Icon=/full/path/to/the/icon-file
   - system to "just work"
   - LTS every 2nd year
 - Linux Mint
-  - often Cinnamon desktop (~Windows)
+  - often Cinnamon desktop (~ Windows)
 
 ### Package Manager
 
@@ -93,7 +102,7 @@ Icon=/full/path/to/the/icon-file
 
 #### Sub-process dpkg error
 
-```shell
+```bash
 E: Sub-process /usr/bin/dpkg returned an error code (1)
 
 sudo rm /var/cache/debconf/*.dat
@@ -102,6 +111,6 @@ sudo dpkg --configure -a
 
 #### Bluetooth cannot be turned on
 
-```shell
-sudo apt-get install --reinstall bluez  // and reboot system
+```bash
+sudo apt-get install --reinstall bluez  # and reboot system
 ```
