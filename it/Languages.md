@@ -23,6 +23,12 @@
 - lambdas (since C++11)
   - default initialisation, can be members
 
+## C#
+
+- CLR: common language runtine
+- IL: intermediate language
+- Linq: Language-Integrated Query
+
 ## Java
 
 - [sdkman](https://sdkman.io/install): multiple sdk version (e.g. java)
