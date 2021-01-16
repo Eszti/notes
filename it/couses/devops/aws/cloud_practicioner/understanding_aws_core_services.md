@@ -46,3 +46,19 @@
 			- Elastic Block Store
 		- Amazon Machine Image (AMI)
 		- purchase options
+	- purchase options
+		- on-demand
+			- pay by the second
+		- reserved
+			- discount for 1-3 years
+				- cost models	
+					- all upfront: maximum savings
+					- partial upfront
+					- no upfront: minimum savings but still cheaper than on-demand
+		- spot-instance
+			- largest discount
+			- up to 90% discount
+			- Spot price: your bid must be higher
+				- if bid prices go higher instance will be terminated
+				- you can get a 2-minute prior to termination notification
+
