@@ -1,4 +1,11 @@
-# Deutschkurs Notizen
+# Deutschkurs Notizen - 2020
+
+## T - 18.12.
+
+### Grammatik - Subjektiver Gebrauch von Modalverben
+
+- Sie müsste bald ankommen: 
+- Paul will den Umfall genau gesehen haben: behauptet nur, eher nicht wahr
 
 ## T - 11.12
 
@@ -16,6 +23,29 @@
 - unechte
   - sich anziehen: ich ziehe mein Baby an
 - wenn es mit einem Akk-Object steht, sich immer in Dativ
+
+## M - 10.12.
+
+### Grammatik - Präpositionen mit Dativ
+
+- den Regeln **entsprechend**
+- **samt** seiner Familie (zusammen mit seiner Familie)
+- Sie studiert **fern** von ihrer Heimat
+- macht bitte mir **zuliebe** eure Hausaufgaben (a kedvemért)
+
+### Grammatik - irreale Folgesätze
+
+- zu..., als dass: tól ..., ahhoz, hogy
+  - Das Buch war zu interessant, als dass ich mit dem Lesen hätte aufhören können.
+
+### Wortschatz 
+
+- Aufsehen erregen: felhívja magára a figyelmet
+- keine Rücksicht nehmen
+- im Kauf nehmen: ich muss damit rechnen
+- in Schwierigkeiten geraten
+- Da sind Sie im Irrtum
+- Blass vor Neid sein
 
 ## T - 04.12
 
@@ -46,6 +76,9 @@
 - Doppelpunkt (:) 
 - Anführungszeichen ("Gänsefüßchen")
 - Komma (, der Beistrich): vor "und" und "oder" kein Komma
+- Apostroph (')
+  - Ich hab' keine Zeit
+  - Thomas' Katze
 
 - heraufbeschwören: felidéz
 

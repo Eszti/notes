@@ -4,24 +4,26 @@ what I learned
 
 ## IT
 
+[AI](it/AI.md)
 [Architecture](it/Architecture.md)  
-[Database.md](it/Database.md)  
-[DataScience.md](it/DataScience.md)  
-[DevOps.md](it/DevOps.md)  
-[Documentation.md](it/Documentation.md)  
-[Glossary.md](it/Glossary.md)  
-[Languages.md](it/Languages.md)  
-[OS.md](it/OS.md)  
-[Protocols.md](it/Protocols.md)  
-[Tools.md](it/Tools.md)  
-[Web.md](it/Web.md)  
+[Database](it/Database.md)  
+[DevOps](it/DevOps.md)  
+[Documentation](it/Documentation.md)  
+[Glossary](it/Glossary.md)  
+[Languages](it/Languages.md)  
+[OS](it/OS.md)  
+[Protocols](it/Protocols.md)  
+[Tools](it/Tools.md)  
+[Web](it/Web.md)  
 
-## Nyelvek
+## Human Languages
 
 ### Deutsch
 
 [Software Wortschatz](nyelv/deutsch/SoftwareVocab.md)  
-[Deutschkurs Notizen](nyelv/deutsch/DeutschkursNotizen.md)  
+Deutschkurs Notizen
+- [2021](nyelv/deutsch/DeutschkursNotizen_2021.md)
+- [2020](nyelv/deutsch/DeutschkursNotizen_2020.md)
 
 ### English
 

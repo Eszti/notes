@@ -98,7 +98,11 @@ Collaborative
 
 ## git
 
+### General
+
 - configs: local, global (all repos), system (all users)
+
+### Commands
 
 ```bash
 git config credential.helper store # unencypted, protected only by file permissions
@@ -117,9 +121,12 @@ git config --get-regexp alias # list aliases
 git config --global alias.co checkout # set alias
 ```
 
+### Tools
+
 - [git bash prompt](https://github.com/magicmonty/bash-git-prompt)
 - [Monorepo](https://www.atlassian.com/git/tutorials/monorepos)
 - [husky](https://github.com/typicode/husky) for commit hooks
+- [binder](https://mybinder.org/) online interactive notebooks
 
 ## Collaboration Tools
 
