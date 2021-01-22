@@ -6,6 +6,9 @@
 
 - Sie müsste bald ankommen: 
 - Paul will den Umfall genau gesehen haben: behauptet nur, eher nicht wahr
+- [Übung](https://www.schubert-verlag.de/aufgaben/uebungen_c1/c1_modalverben1.htm)
+- [Zusammenfassung](https://deutschkurse-passau.de/JM/images/stories/SKRIPTEN/c1_skript_gr.pdf)
+  - Seite 18-19
 
 ## T - 11.12
 
@@ -23,6 +26,9 @@
 - unechte
   - sich anziehen: ich ziehe mein Baby an
 - wenn es mit einem Akk-Object steht, sich immer in Dativ
+- [Liste von Verben nach Niveau](https://deutsch.lingolia.com/de/grammatik/verben/reflexive/liste)
+- [echte und unechte reflexive Verben](http://deutsch-als-fremdsprache-grammatik.de/DaF/reflexiveverben.pdf)
+- [Aufgaben](https://www.deutsch-perfekt.com/deutsch-ueben/reflexive-verben)
 
 ## M - 10.12.
 
@@ -102,10 +108,10 @@
 ### Redemittel für Diskussion
 
 - [Zusammenfassung](https://www.wirtschaftsdeutsch.de/lehrmaterialien/redemittel-diskussion-c1-kurzfassung.pdf)
-- ich verbitte mir diese Unterstellungen
-- ich würde gerne noch einmal den Gedanken von vorhin aufgreifen
-- Da muss ich aber jetzt doch kurz einhaken
-- Ich möchte darauf bestehen, dass ... (ragaszkodik valamihez)
+- ich verbitte mir diese Unterstellungen (kikérem magamnak ezeket a vádakat)
+- ich würde gerne noch einmal den Gedanken von vorhin aufgreifen (még egyszer felhozni a témát)
+- Da muss ich kurz einhaken (közbeszól)
+- Ich möchte doch darauf bestehen, dass ... (ragaszkodik valamihez)
 
 ### Plural - irregular
 
