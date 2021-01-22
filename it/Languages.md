@@ -126,3 +126,10 @@
 
 - [wtfpython](https://github.com/satwikkansal/wtfpython)
 - [urldecode](https://dev.to/k4ml/python-urldecode-on-command-line-2ek9)
+
+## Regex
+
+```bash
+^((?!word).)*$    # does not contian work
+.*word-*          # contains word
+```
