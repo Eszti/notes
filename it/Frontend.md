@@ -174,6 +174,15 @@
 
 - create style object
 - use the style property
+- [styled-components](https://styled-components.com/docs)
+  - tagged template literals for styling (string literals allowing embedded expressions)
+  ```javascript
+  const Title = styled.h1`
+    font-size: 1.5em;
+    text-align: center;
+    color: palevioletred;
+  `;
+  ```
 
 ### Testing
 

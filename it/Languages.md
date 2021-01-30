@@ -28,6 +28,8 @@
 - CLR: common language runtine
 - IL: intermediate language
 - Linq: Language-Integrated Query
+- property
+  - public string Name { get; set; }
 
 ## Java
 
@@ -83,6 +85,15 @@
 - plugin-based, all word is done by plugins
 - dependencies
   - snapshots
+
+### Logging
+
+- [slf4j](http://www.slf4j.org/)
+  - facade for logging
+- [log4j](https://logging.apache.org/log4j/2.x/)
+  - logging framework
+- [logback](http://logback.qos.ch/)
+  - logging framework
 
 ## Python
 

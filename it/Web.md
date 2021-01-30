@@ -54,17 +54,23 @@
 - automatic cache within one query (e.g. root is queried only once)
 - graphQL pulls continuously with a POST request, so that the schema is up-to-date
 
-- development steps
-  - schema
-    - defines the query fields
-  - resolver
-    - resovles gql query fields
-  - data source
-    - gets the data (e.g. REST API calls)
-  - .gql files (queries, mutations...)
-    - define queries & mutation for GUI
-  - React frontend
-    - use apollo-client implementation for calling GraphQL scripts
+### Development steps
+
+- schema
+  - defines the query fields
+- resolver
+  - resovles gql query fields
+- data source
+  - gets the data (e.g. REST API calls)
+- .gql files (queries, mutations...)
+  - define queries & mutation for GUI
+- React frontend
+  - use apollo-client implementation for calling GraphQL scripts
+
+### Tools
+
+- [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager)
+  - represent GraphQL API as an interactive graph
 
 ## Browser
 
