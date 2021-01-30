@@ -170,3 +170,7 @@ git config --global alias.co checkout # set alias
 
 - [Tableau](https://www.tableau.com/)
 - [excalidraw](https://excalidraw.com/)
+
+### Images
+
+- [Pixels](https://www.pexels.com/): free stock photos

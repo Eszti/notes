@@ -1,5 +1,61 @@
 # Deutschkurs Notizen - 2021
 
+## T - 29.01.
+
+### Grammatik - bevor, vor etw, zuvor
+
+- Bevor der Mann aufgeschrien hat, war alles ruhig.
+- Der Mann hat aufgeschrien. Zuvor/Davor war alles ruhig.
+- Vor dem Aufschrei des Mannes war alles ruhig. 
+- Ich habe mich mit diesem Thema nie zuvor beschäftigt. 
+
+### Wortschatz
+
+#### Spielen
+
+- Schach, Handball, Klavier, Karten
+- NICHT: Sport (treiben)
+
+#### Treiben
+
+- Sport, Handel, Unfug (garázdaság)
+- NICHT: Fußball (spielen), Schwimmen (man schwimmt)
+
+#### Schaffen
+
+- Arbeitsplätze, Abhilfe (vmit orvosolni), Ordung
+- NICHT: Verantwortung (tragen), Hilfe (leisten, anbieten)
+
+#### Begehen
+
+- einen Fehler, ein Jubiläum (évforduló megtörténik), eine Dummheit, einen Mord
+- NICHT: einen Schaden (hinzufügen, verursachen)
+
+#### Äußern
+
+- eine Meinung, einen Wunsch, eine Vermutung, Besorgnis
+- NICHT: ein Versprechen (geben, halten, brechen)
+
+#### Ausstellen
+
+- ein Zeugnis, ein Rezept (orvos), eine Quittung (nyugta)
+- NICHT: einen Beweis (erbringen), ein Stipendium (erhalten, bekommen)
+
+#### Erleiden
+
+- einen Verlust, Schaden, eine Niederlage, einen Schock
+- NICHT: Einfluss (unter Einfluss leiden, stehen)
+
+#### Erstatten (megtéríŧ)
+
+- Kosten, Bericht (tudósít), Anzeige erstatten (= jdn anzeigen)
+- NICHT: Respekt, Strafe
+
+#### Zuziehen
+
+- eine Krankheit, eine Verletzung, eine Infektion, eine Grippe
+- NICHT: einen Unfall (haben, erleiden)
+
 ## T - 22.01.
 
 ### Wortschatz

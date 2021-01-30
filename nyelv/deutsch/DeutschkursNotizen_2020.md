@@ -325,7 +325,7 @@
 ### Diskussion - Bedeutung der Heimat
 
 - Halt geben: ~ Unterstützung, fester Punkt
-- [Thema, Seite 28](https://www.goethe.de/lrn/pro/c2-neu/C2_Modellsatz.pdf)
+- [C2 Themen](https://www.goethe.de/lrn/pro/c2-neu/C2_Modellsatz.pdf)
 - HF: Text dazu
 
 - Eszter
