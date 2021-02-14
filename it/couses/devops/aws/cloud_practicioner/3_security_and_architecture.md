@@ -141,7 +141,7 @@
 - elastic MapReduce
 - big-data processing
 - open-source framework support
-	- (Apache) Sprak, Flink, Hive, Hudi, HBase andPresto
+	- (Apache) Sprak, Flink, Hive, Hudi, HBase and Presto
 - clustered environment
 
 #### AWS Data Pipeline

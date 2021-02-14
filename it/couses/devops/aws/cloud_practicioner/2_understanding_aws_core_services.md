@@ -165,7 +165,7 @@
 	- intelligent-tiering
 		- move files based on access
 		- between frequent & infrequent
-	- standard-infrequent-access
+	- standard-infrequent-access (Standard-IA)
 	- One Zone-IA (only in one az)
 - across multiple az
 - URL access for files
