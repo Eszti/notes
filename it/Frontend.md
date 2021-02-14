@@ -318,3 +318,7 @@ width: 600px;
   - React, Angular, Vue
   - story: captures a rendered state
   - can show code examples
+- screenshot testing
+  - [Storyshots](https://www.npmjs.com/package/@storybook/addon-storyshots)
+    - ~ jest tests
+  - [Creevey](https://github.com/wKich/creevey)

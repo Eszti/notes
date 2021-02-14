@@ -73,6 +73,13 @@
         .hasMessage("Object " + id + " does not exist. Or whatever");
 ```
 
+### Testing
+
+- [mockito][(https://github.com/mockito/mockito)
+  - 2.0: opt-in mocking for final classes/methods
+    - src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker: `mock-maker-inline`
+
+
 ### Validation
 
 - [Hibernate Validator](https://docs.jboss.org/hibernate/validator/5.4/reference/en-US/html_single/#validator-gettingstarted-createmodel)
@@ -82,7 +89,7 @@
 - build automation: how & dependencies
 - POM: project object model
   - parent-pom
-- plugin-based, all word is done by plugins
+- plugin-based, all work is done by plugins
 - dependencies
   - snapshots
 

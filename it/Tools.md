@@ -53,7 +53,7 @@
 - zen & presentation mode
 - semantic highlighting: Editor -> Code Scheme -> Language Defaults -> semantic highlighting
 
-#### Solved issues
+#### Troubleshooting
   
 - broken markdown (javaFX error)
   - choose another java runtime for the IDE
@@ -62,6 +62,8 @@
   - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
   - mouse selects text autmatically: touch screen problem, touch screen -> works again
 - DO NOT INSTALL requiremnts plugin for python !!!
+- lombok annotations won't generate code
+  - invalidate cache
 
 #### Important plugins & extra tools
 
@@ -171,6 +173,7 @@ git config --global alias.co checkout # set alias
 - [Tableau](https://www.tableau.com/)
 - [excalidraw](https://excalidraw.com/)
 
-### Images
+### Free Images
 
-- [Pixels](https://www.pexels.com/): free stock photos
+- [Pixels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
