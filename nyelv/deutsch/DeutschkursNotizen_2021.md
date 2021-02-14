@@ -1,5 +1,46 @@
 # Deutschkurs Notizen - 2021
 
+## T - 12.02.
+
+### Nomen - Verb Verbindungen
+
+#### Führen
+
+- Krieg, ein Gespräch, Verhandlungen, einen Beweis (belegen)
+
+#### Leisten
+
+- eine Arbeit, eine Anzahlung, Widerstand, Hilfe
+
+#### Geben
+
+- einen Hinweis, eine Antwort, ein Versprechen, einen Befehl
+
+#### Nehmen
+
+- etw. in Angriff (etw. zu starten), ein Bad, Einfluss, Platz
+
+#### Stellen
+
+- eine Frage, etw. in Frage, unter Beweis stellen (demonstrate)
+- Beobachtungen anstellen
+
+#### Halten
+
+- eine Rede, sein Wort, Abstand
+
+#### Treffen
+
+- eine Absprache, eine Auswahl, Vorbereitungen, Entscheidung
+
+#### Aufstellen
+
+- einen Rekord, eine Behauptung, eine Theorie, eine Regel
+
+#### Schließen
+
+- Frieden, Freundschaft, ein Bündnis (szövetség)  
+
 ## T - 29.01.
 
 ### Grammatik - bevor, vor etw, zuvor
@@ -9,7 +50,7 @@
 - Vor dem Aufschrei des Mannes war alles ruhig. 
 - Ich habe mich mit diesem Thema nie zuvor beschäftigt. 
 
-### Wortschatz
+### Nomen - Verb Verbindungen
 
 #### Spielen
 
