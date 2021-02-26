@@ -21,9 +21,7 @@ Package Manager
     - remove header: `sudo apt-get purge linux-headers-VERSION-generic`
     - reboot
 
-### Useful
-
-#### Commands
+### Commands
 
 ```bash
 df -h # free disk space
@@ -36,7 +34,11 @@ google-chrome --app='https://teams.microsoft.com' # start teams in a different w
 
 set -x # prints all command before executing them
 set -o xtrace # debug
+
+ssh-keygen
 ```
+
+### Useful
 
 - `Alt>Esc` : cycle-windows
 - `Alt>0` : switch in application

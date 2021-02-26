@@ -90,6 +90,14 @@ Collaborative
 - Shutter
 - [fuzzy finder](https://github.com/junegunn/fzf)
   - Ctrl+R shows more results
+- for long running processes
+  - screen
+    - terminal multiplexing
+    - divides a physical terminal into multiple virtual ones
+  - nohup
+    - ignores the hup command
+    - hup command is delivered to a process when it's associated shell is terminated
+
 
 ## Atlassian
 

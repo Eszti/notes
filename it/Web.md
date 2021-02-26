@@ -85,6 +85,30 @@
 - Chrome: [Tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)
 - Firefox: [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
 
+### Storeage
+
+#### Cookies
+
+- oldest
+- most restrictive
+- store data that has to be sent back to the server
+- primarily for server-side reading
+- can also be read on client-side
+- expiration duration can be set both on server and client side
+- can be made secure
+  - httpOnly: prevents client-side access
+
+#### Local storage
+
+- key-value store on the client's computer
+- no expiration date
+- data is never transferred to the server
+- plaintext
+
+#### Session storage
+
+- same as localstorage, but store only for the session (until browser is closed)
+
 ## Security
 
 ### Proxy
@@ -174,3 +198,8 @@
 
 - [Storybook](https://github.com/storybookjs/storybook): UI components development in isolation
   - storyshots: snapshot testing for components
+
+## Tools
+
+- [ngrok](https://ngrok.com/docs)
+  - to expose a web server running on your local machine to the internet

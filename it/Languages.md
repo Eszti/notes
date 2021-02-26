@@ -23,13 +23,14 @@
 - lambdas (since C++11)
   - default initialisation, can be members
 
-## C#
+## C-sharp
 
 - CLR: common language runtine
 - IL: intermediate language
 - Linq: Language-Integrated Query
 - property
   - public string Name { get; set; }
+- WPF: data binding
 
 ## Java
 
@@ -144,6 +145,13 @@
 
 - [wtfpython](https://github.com/satwikkansal/wtfpython)
 - [urldecode](https://dev.to/k4ml/python-urldecode-on-command-line-2ek9)
+
+## Typescript
+
+- will be compiled to javascript
+- type check only at compiler time
+- structural comparison (talk like a duck, looks like a duck...)
+- any can always be used
 
 ## Regex
 

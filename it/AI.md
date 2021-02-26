@@ -170,6 +170,8 @@ model.load_state_dict(torch.load(data.DATA_PATH / "model_params.pt"))
 
 ## NLP
 
+- [tracking progress](http://nlpprogress.com/)
+
 ### Tasks
 
 #### Simple tasks

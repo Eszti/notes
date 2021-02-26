@@ -15,7 +15,7 @@
   - first-class functions
   - multi-paradign (event-driven, functional, imerative)
 
-### JS Runtime Environments (Frameworks)
+### Runtime Environments (Frameworks)
 
 - [node.js](https://github.com/nodejs/node)
   - open source
@@ -25,7 +25,7 @@
   - web application frameworks
     - [express](http://expressjs.com/): simple, well documented, but too heavy & slow
 
-### JS package managers
+### package managers
 
 - [npm- Node Package Manager](https://www.npmjs.com/)
   - default for Node.js
@@ -43,20 +43,20 @@
 - [bower](https://bower.io/)
   - only for front-end (html, css, js) packages
 
-### JS compilers
+### compilers
 
 - [Babel](https://github.com/babel/babel)
   - ~transcompiler
   - converts ECMAScript 2015+ into a backwards compatible version of JavaScript
   - used by React
 
-### JS Module Bundler
+### Module Bundler
 
 - [webpack](https://github.com/webpack/webpack)
   - bundles js files for browser usage (for SPAs)
   - dev-server for on-the-fly update (also possible with nodemon)
 
-### JS Frameworks
+### Frameworks
 
 - [Angular](https://github.com/angular/angular)
   - syntax: html + ts
@@ -70,7 +70,7 @@
   - compiler: in browser
   - only render what changed
 
-### JS libraries
+### libraries
 
 - [React](https://github.com/facebook/react)
 	- components
@@ -96,11 +96,135 @@
   - form validation
   - form handling & submission
 
-### JS Tools
+### Tools
 
 - [can I use](https://caniuse.com/)
 
+## Angular
+
+### Summary
+
+- old Angular: AngularJS (= Angular 1)
+- backed by Google
+- TypeScript-based
+- component-based
+
+### Architecture
+
+- NgModule
+  - capsulate modules
+- Directive
+  - have an effect in rendered view
+- View
+  - rendered
+- Component
+  - View + Directive
+- Pipe
+  - filter & process values
+- Service
+  - functional code, e.g.call service
+
+### Angular CLI
+
+```bash
+ng new my-app
+cd my-app
+ng serve
+ng generate component XY
+ng generate service XY
+```
+
+### Components
+
+- selector: to reference
+- template: html template
+- style
+
+```javascript
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.less']
+})
+```
+
+- interpolation
+  - `{{ message }}`
+- change detection
+- dependency injection
+  - constructor injection
+
+#### Lifecycle
+
+- ngOnInit
+  - before first rendering
+  - `implements OnInit`
+- ngOnDestroy
+- ngOnChanges
+
+#### Data Binding
+
+- `[item]`
+- @Input()
+
+#### Event Binding
+
+- `(click)`
+- @Output()
+
+#### Directives
+
+- `*ngIf`
+- `*ngFor`
+- `[(ngModel)]`: two-way data binding
+
+#### Pipes
+
+- to convert values
+- `ng generate pipe`
+
+#### Content Projection
+
+- e.g to define a header
+- `<ng-content />`
+
+### Routing
+
+- path-component associations in app-module
+- redirect
+- wildcard
+- params: `books:/:bookName`
+- nested routes
+- navigate programatically
+  - `router.navigate()`
+
+### Testing
+
+#### Unit
+
+- [Karma](https://karma-runner.github.io/latest/index.html)
+
+#### E2E
+
+- [Protactor](http://www.protractortest.org/#/)
+
 ## React 
+
+- [best practices](https://alexkondov.com/tao-of-react/)
+  - favor Functional Components
+  - name components
+  - don't hardcode markup
+  - destructure props
+  - pass objects instead of primitives
+  - use conditional rendering (&&)
+  - move lists into a separate component
+  - assign default props
+  - use reducers
+  - prefer Hooks (useForm vs Form)
+  - group app structure by route/module
+  - wrap external components (don't import them directly, a.k.a. use `import {}`)
+  - don't rely on snapshot tests
+  - use a data fetching library ([React Query](https://react-query.tanstack.com/) or [SWR](https://swr.vercel.app/))
 
 ### Getting started
 
@@ -298,18 +422,41 @@ width: 600px;
 - learning links
 	- [flexbox froggy](https://flexboxfroggy.com/)
 
-## Frontend testing
+### Less
+
+- Learner Style Sheets
+- backward compatible language extension for csv
+- [less.js](http://lesscss.org/#overview)
+  - converts Less style to CSS styles
+
+## Testing
 
 - headless browser: browser without GUI, good for testing, renders like real browsers
+
+### Cypress
+
 - [cypress](https://www.cypress.io/)
-  - end-to-end browser testing framework
-  - can also headless
+- end-to-end browser testing framework
+- can also headless
+- [cypress testing library](https://testing-library.com/docs/cypress-testing-library/intro/)
+  - allows dom-testing queries
+
+### Jest
+
 - [jest](https://jestjs.io/)
-  - javascript test framework
-  - mostly for unit & integration
+- javascript test framework
+- mostly for unit & integration
+- runs a low level, plain JavaScript
+- transformers
+  - [esbuild-jest](https://github.com/aelbore/esbuild-jest)
+    - fast
+    - ts, js, tsx, jsx
+
+### Cucumber
+
 - [Cucumber](https://cucumber.io/)
-  - write human readable tests
-  - mostly for e2e
+- write human readable tests
+- mostly for e2e
 
 ## UI
 

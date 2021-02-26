@@ -28,3 +28,13 @@
 ## RFC
 
 - [Key words for use in RFCs to Indicate Requirement Levels](https://tools.ietf.org/rfc/rfc2119.txt)
+
+## Licence
+
+### MIT License
+
+- free for
+	- commercial use
+	- modification
+	- distribution
+	- private use
