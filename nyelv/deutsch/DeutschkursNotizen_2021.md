@@ -1,5 +1,52 @@
 # Deutschkurs Notizen - 2021
 
+## T - 26.02.
+
+### Nominalisierung
+
+- herkommen
+	- die Herrkunft
+- unterkommen
+	- die Unterkunft
+- stehen
+	- der Stand
+- schreiben
+	- die Schrift, das Schreiben, die Schreibung (Rechtschreibung)
+- vorlesen
+	- die Vorlesung
+- durchführen
+	- die Durchführung
+- verstehen
+	- das Verständnis
+- sich einigen
+	- die Einigung
+- auswählen
+	- die Auswahl
+- buchen
+	- die Buchung
+- wünschen
+	- der Wunsch
+- können
+	- die Fähigkeit
+- ansehen
+	- die Ansicht, das Ansehen (die Reputation)
+- sollen
+	- die Pflicht
+- erfolglos
+	- die Erfolglosigkeit
+- aufmerksam
+	- die Aufmerksamkeit
+- arrogant
+	- die Arroganz
+- speziell
+	- die Spazialität
+- hoch
+	- die Höhe
+- real
+	- die Realität
+- frequent
+	- die Frequenz
+
 ## T - 12.02.
 
 ### Nomen - Verb Verbindungen
