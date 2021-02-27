@@ -111,6 +111,7 @@ Collaborative
 ### General
 
 - configs: local, global (all repos), system (all users)
+- [how to write a good commit message](https://chris.beams.io/posts/git-commit/)
 
 ### Commands
 
