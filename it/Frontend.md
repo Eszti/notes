@@ -458,7 +458,7 @@ width: 600px;
 - write human readable tests
 - mostly for e2e
 
-## UI
+## UI Design
 
 - [Storybook](https://storybook.js.org/)
   - to design and showcase components
@@ -468,4 +468,42 @@ width: 600px;
 - screenshot testing
   - [Storyshots](https://www.npmjs.com/package/@storybook/addon-storyshots)
     - ~ jest tests
+    - snapshot testing for components
   - [Creevey](https://github.com/wKich/creevey)
+
+## Browser
+
+### Google Chrome
+
+- hotkeys
+  - [Ctrl+w]: close tab
+  - [Ctrl+l/F6]: select URL
+
+### Userscripts
+
+- Chrome: [Tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)
+- Firefox: [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
+
+### Storeage
+
+#### Cookies
+
+- oldest
+- most restrictive
+- store data that has to be sent back to the server
+- primarily for server-side reading
+- can also be read on client-side
+- expiration duration can be set both on server and client side
+- can be made secure
+  - httpOnly: prevents client-side access
+
+#### Local storage
+
+- key-value store on the client's computer
+- no expiration date
+- data is never transferred to the server
+- plaintext
+
+#### Session storage
+
+- same as localstorage, but store only for the session (until browser is closed)

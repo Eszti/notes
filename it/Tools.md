@@ -1,16 +1,9 @@
 # Tools
 
-## Code Quelity
+## Code Quality
 
 - [SonarCloud](https://sonarcloud.io/)
   - bugs, vulnerabilities, coverage...
-
-## Profiling
-
-- [Apache JMeter](https://jmeter.apache.org/)
-  - load testing tool
-- [Visual VM](https://visualvm.github.io/)
-  - get detailed info about Java applications running on a JVM
 
 ## Editors
 
@@ -98,7 +91,6 @@ Collaborative
     - ignores the hup command
     - hup command is delivered to a process when it's associated shell is terminated
 
-
 ## Atlassian
 
 - ? : open shortcuts
@@ -143,16 +135,18 @@ git config --global alias.co checkout # set alias
 - [binder](https://mybinder.org/) 
   - to create online interactive notebooks for a git repository
 
+## Network Tools
+
+- [ngrok](https://ngrok.com/docs)
+  - to expose a web server running on your local machine to the internet
+- [DNS checker](https://dnschecker.org/)
+  - for checking load balancing
+
 ## Collaboration Tools
 
 - whiteboards
   - Miro
   - Mural
-- drawing
-  - [excalidraw](https://excalidraw.com/)
-- UML
-  - IntelliJ: AsciiDoc plugin [plantuml]
-  - [PlantText](https://www.planttext.com/)
 
 ## Project Management Tools
 
@@ -181,6 +175,9 @@ git config --global alias.co checkout # set alias
 
 - [Tableau](https://www.tableau.com/)
 - [excalidraw](https://excalidraw.com/)
+- UML
+  - IntelliJ: AsciiDoc plugin (plantuml)
+  - [PlantText](https://www.planttext.com/)
 
 ### Free Images
 

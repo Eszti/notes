@@ -6,14 +6,14 @@
 [Architecture](it/Architecture.md)  
 [Database](it/Database.md)  
 [DevOps](it/DevOps.md)  
+[Distributed Systems](it/DistributedSystems.md)  
 [Documentation](it/Documentation.md)  
 [Frontend](it/Frontend.md)  
 [Languages](it/Languages.md)  
+[Network](it/Network.md)  
 [OS](it/OS.md)  
 [Programming](it/Programming.md)  
-[Protocols](it/Protocols.md)  
 [Tools](it/Tools.md)  
-[Web](it/Web.md)  
 
 ## Languages
 

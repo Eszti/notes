@@ -16,7 +16,7 @@
 
 ## AWS
 
-- run local: [localstack](https://github.com/localstack/localstack)
+- [localstack](https://github.com/localstack/localstack)
 - CodePipeline: CI
 - SFTP as managed service
 
@@ -24,7 +24,6 @@
 
 - [clair](https://github.com/quay/clair)
   - static analysis of vulnerabilities
-
 - dependency update checks
   - [renovate](https://github.com/renovatebot/renovate)
   - [dependabot](https://dependabot.com/)
@@ -39,3 +38,10 @@
   - for creating monitoring dashboards
   - query, visualize, alert on metrics
   - can query Prometheus
+
+## Profiling
+
+- [Apache JMeter](https://jmeter.apache.org/)
+  - load testing tool
+- [Visual VM](https://visualvm.github.io/)
+  - get detailed info about Java applications running on a JVM
