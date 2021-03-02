@@ -362,3 +362,54 @@
 - ELB and Auto Scaling group work together
 - ELB: provides health check
 - Auto Scaling Group: adds instances to the ELB target group
+
+## Multi-region Application with Route 53
+
+- two reasons
+	- high availability (active-active)
+	- failure-tolerance (active-passive)
+
+### Deploying multi-region applications
+
+- TLS certificate
+	- region specific
+	- to deploy in another region: another certificate
+	- AMIs are also region-specific
+
+### Active-active redundancy
+
+#### Weighted Records
+
+- DNS based, round-robin load balancing
+- Records Set (Route 53)
+	- choose load balancer
+	- policy: weighted
+
+### Active-passive redundancy
+
+- primary region
+	- normally services all requests
+- secondary region
+	- fails over to this backup in case of an error
+
+#### Pilot Light
+
+- secondary region runs very lean (e.g. only one app & web tier instance)
+- cheaper but available
+- can be scaled-up on-demand
+
+#### Warm Standby
+
+- (near) replica of the primary environment always running (!)
+- auto-scaling scales for secondary the same as for primary
+
+#### Failover Record
+
+- create a record set
+	- routing policy: failover
+
+### Route 53 Health Check
+
+- create Health Check at AWS-Route 53
+- create record sets with health check
+- DNS-based load balacing is "the poor man's load balancing"
