@@ -1,6 +1,6 @@
 # Deutschkurs Notizen - 2021
 
-## T - 26.02.
+## 26.02.
 
 ### Nominalisierung
 
@@ -47,7 +47,7 @@
 - frequent
 	- die Frequenz
 
-## T - 12.02.
+## 12.02.
 
 ### Nomen - Verb Verbindungen
 
@@ -88,7 +88,7 @@
 
 - Frieden, Freundschaft, ein Bündnis (szövetség)  
 
-## T - 29.01.
+## 29.01.
 
 ### Grammatik - bevor, vor etw, zuvor
 
@@ -144,7 +144,7 @@
 - eine Krankheit, eine Verletzung, eine Infektion, eine Grippe
 - NICHT: einen Unfall (haben, erleiden)
 
-## T - 22.01.
+## 22.01.
 
 ### Wortschatz
 
@@ -195,7 +195,7 @@
 	- hängt, hängte, hat gehängt
 	- hängt, hing, hat gehangen
 
-## T - 15.01
+## 15.01
 
 ### Verben - trennbare und nicht-trennbare
 
