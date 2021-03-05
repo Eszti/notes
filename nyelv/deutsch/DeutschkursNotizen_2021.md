@@ -1,5 +1,32 @@
 # Deutschkurs Notizen - 2021
 
+## 05.03.
+
+### Grammatik - TeKaMoLo
+
+#### Angaben
+
+- freiwillige Angaben
+- temporal: wann
+- kausal: warum
+- model: wie
+- lodal: wo(hin)
+
+#### Ergränzungen
+
+- obligatorisch, falls das Verb die fordert
+- akkusativ Objekt
+	- nach den temporalen, kausalen, modalen
+	- vor oder nach der lokalen Angabe
+- dativ Objekt
+	- vor der temporalen Angabe
+- präpositionale Ergränzung
+	- möglichst nah am Verb (e.g. bei etw helfen)
+
+#### Verben mit Präfixen
+
+- Er fühlt sich in seiner neuen Heimat sehr wohl.
+
 ## 26.02.
 
 ### Nominalisierung
