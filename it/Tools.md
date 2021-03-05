@@ -79,17 +79,30 @@ Collaborative
 ## Linux
 
 - [autojump](https://github.com/wting/autojump): instead of aliases
-- Terminator
-- Shutter
+- [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/gettingstarted.html)
+  - terminal with multiple tabs
+  - drag & drop
+  - simultaneous typing
+  - keyboard shortcuts
+- [Shutter](https://shutter-project.org/)
+  - capture & edit
+  - `sudo snap install shutter`
 - [fuzzy finder](https://github.com/junegunn/fzf)
   - Ctrl+R shows more results
-- for long running processes
-  - screen
-    - terminal multiplexing
-    - divides a physical terminal into multiple virtual ones
-  - nohup
-    - ignores the hup command
-    - hup command is delivered to a process when it's associated shell is terminated
+
+### GNOME extensions
+
+- [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/)
+- [Poweroff Button on Toopbar](https://extensions.gnome.org/extension/2851/poweroff-button-on-topbar/)
+
+### For long running processes
+
+- screen
+  - terminal multiplexing
+  - divides a physical terminal into multiple virtual ones
+- nohup
+  - ignores the hup command
+  - hup command is delivered to a process when it's associated shell is terminated
 
 ## Atlassian
 

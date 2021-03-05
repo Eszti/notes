@@ -82,18 +82,56 @@ Icon=/full/path/to/the/icon-file
 
 ### Package Manager
 
-- dpkg
-  - Debian Package Manager, low level
-  - database: /var/lib/dpkg (in status file are the installed packages)
-- apt
-  - Advanced Package Tool, higher-lever tool, can fetch from remote & resolve dependencies: tools like apt/apt-get... can interact with it
-  - apt is a subset of apt-get & apt-cache, start using apt
-  - softwares can be installed with apt
-  - update: updates the list of available packages but does not installs/upgrades
-  - upgrade: installs available updates
-- Homebrew
-  - ~ apt, but 3rd party, not native
-  - originally for macOS
+#### Debian Package (dpkg)
+
+- low level
+- database
+  - /var/lib/dpkg (in status file are the installed packages)
+
+```bash
+# to install
+dpkg -i filename.deb
+
+# to list installed packages
+dpkg -l [optional pattern]
+
+# to remove
+dpkg -r packagename
+```
+
+#### Advanced Package Tool (apt)
+
+- higher-lever 
+- software-user interface for software installation & removal
+- collection of tools
+  - apt
+  - apt-get
+  - apt-cache
+- ~ front-end to dpkg
+
+```bash
+# to install
+sudo apt install XY
+
+# to updates available packages (does not do install/upgrade)
+sudo apt update
+
+# to actually upgrade
+sudo apt upgrade
+
+```
+
+#### Snap
+
+- packaging, deployment and distribution
+- packages: snaps
+- tool: snapd
+- installation target: `/snap/bin`
+
+#### Homebrew
+
+- ~ apt, but 3rd party, not native
+- originally for macOS
   
 ### Security
 

@@ -108,22 +108,37 @@
 ### Environment
 
 - [pyenv](https://github.com/pyenv/pyenv)
-  - switch between multiple python versions (e.g. 2.7, 3.8...)
+  - manage different versions and virtual environments
+  - `pyenv install 3.8.3`
+  - `pyenv uninstall 3.8.3`
+  - `pyenv global 3.8.3`
 - [venv](https://docs.python.org/3/library/venv.html)
   - to manage different virtual environments (install different packages) of a single python version
     - `python -m venv ./venv`
     - `source ./venv/bin/activate`
   - only works for Python3.3+
 
-### Packages
+### Dependencies
 
-#### Package managers
+- to list dependencies
+  - `pip freeze`
+- requirements 
+  - store in `requirements.txt`
+  - install with `pip install -r requirements.txt`
 
-- for installing packages
+### Package managers
+
+#### pip
+
 - [pip](https://pypi.org/project/pip/)
+- to delete all dependencies
+  - `pip freeze | xargs pip uninstall -y`
+
+#### conda
+
 - [conda](https://docs.conda.io/en/latest/)
 
-#### Build distribution formats
+### Build distribution formats
 
 - egg
   - introduced by setuptools

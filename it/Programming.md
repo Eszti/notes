@@ -2,10 +2,15 @@
 
 ## Glossary
 
-- cross-platform (multiple-platform):
-  - software that works on multiple computing platforms (e.g. Windows, Linux, macOS)
-- just-in-time compilation
-  - compile during execution
+cross-platform (multiple-platform)
+- software that works on multiple computing platforms (e.g. Windows, Linux, macOS)
+
+just-in-time compilation
+- compile during execution
+ 
+ shim
+ - a library that transparently intercepts API calls
+ - e.g. for supporting an old API
 
 ## Paradigms
 
