@@ -79,6 +79,7 @@
 - [mockito][(https://github.com/mockito/mockito)
   - 2.0: opt-in mocking for final classes/methods
     - src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker: `mock-maker-inline`
+  - 3.0: openMocks() also closes resources
 
 
 ### Validation

@@ -5,8 +5,33 @@
 - [quicktype](https://quicktype.io/): type generation
 - [mock REST APIs](https://mockapi.io/)
 
+## History
+
+### Dawn of Distributed Computing
+- 1970-80
+- RPC
+- messaging
+- queuing
+
+### Object Oriented APIs
+
+- 1980-2000
+- COM/DCOM (Microsoft)
+- CORBA (Java community)
+- Java RMI
+
+### Web-Based APIs
+
+- 2000-until now
+- XMLHTTP
+- REST (~2005)
+- SOAP (Microsoft)
+- GraphQL (facebook)
+- gRPC (Google)
+
 ## RPC
 
+- ~1970s
 - remote procedure call
 - call a subrutine in a different address space (on another computer), as if it were a local procedure
 
@@ -18,15 +43,17 @@
 
 ## REST
 
-- server-driven
-- allow to access & manipulate web resources by using stateless operations
-- requests are made to a resource's URI
-- response can confirm alternation & can provide hypertext
-- HTTP methods can be used
-- RESTful: web services with REST architecture: everything is a resource
-- problems
-  - overfetching and underfetching
-  - server provides all the possible follow-up links that depend on resource state
+### Concepts
+
+- separation of client and server
+- server requests are stateless
+- cacheable requests
+- uniform interface
+
+### Problems
+
+- too diffficult to be qualified as "REST"
+- dogma of REST vs Pragmatism
 
 ### HATEOAS
 
@@ -37,6 +64,18 @@
 - how it works
   - client enters through a fixed URL
   - future actions are discovered
+
+### REST vs GraphQL
+
+- server-driven
+- allow to access & manipulate web resources by using stateless operations
+- requests are made to a resource's URI
+- response can confirm alternation & can provide hypertext
+- HTTP methods can be used
+- RESTful: web services with REST architecture, everything is a resource
+- problems
+  - overfetching and underfetching
+  - server provides all the possible follow-up links that depend on resource state
 
 ## GraphQL
 

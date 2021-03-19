@@ -45,6 +45,9 @@
 
 - zen & presentation mode
 - semantic highlighting: Editor -> Code Scheme -> Language Defaults -> semantic highlighting
+- Configure issue tracking
+  - Tools | Tasks | Servers
+  - `Alt+Shift+N`
 
 #### Troubleshooting
   
@@ -74,7 +77,9 @@ Git
 
 Collaborative
 - [Code Together](https://plugins.jetbrains.com/plugin/14225-codetogether)
+  - uses browser
 - [Code With Me](https://plugins.jetbrains.com/plugin/14896-code-with-me)
+  - installs a lightweight client IDE
 
 ## Linux
 
@@ -147,11 +152,14 @@ git config --global alias.co checkout # set alias
   - needs npm/yarn
 - [binder](https://mybinder.org/) 
   - to create online interactive notebooks for a git repository
+- [commitlint]()
 
 ## Network Tools
 
 - [ngrok](https://ngrok.com/docs)
-  - to expose a web server running on your local machine to the internet
+  - to expose a local development server to the internet
+  - local server appears to be hosted on a subdomain of ngrok.com 
+  - no public IP on local machine is needed
 - [DNS checker](https://dnschecker.org/)
   - for checking load balancing
 

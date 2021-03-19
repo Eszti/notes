@@ -1,6 +1,6 @@
 # What I learned over the years...
 
-## IT 💻
+## 💻 IT
 
 [AI](it/AI.md)
 [Architecture](it/Architecture.md)  
@@ -17,13 +17,13 @@
 
 ## Languages
 
-### Deutsch 🇩🇪
+### 🇩🇪 Deutsch
 
 [Software Wortschatz](nyelv/deutsch/SoftwareVocab.md)  
 Deutschkurs Notizen
 - [2021](nyelv/deutsch/DeutschkursNotizen_2021.md)
 - [2020](nyelv/deutsch/DeutschkursNotizen_2020.md)
 
-### English 🇬🇧
+### 🇬🇧 English
 
 [Software Vocab](nyelv/english/SoftwareVocab.md)  

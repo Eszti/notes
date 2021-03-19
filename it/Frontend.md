@@ -39,6 +39,7 @@
   - share code as package (~module) = code + package.json
   - package.json: ~metadata to the project
   - ~ alias for `npm run`
+  - `yarn cache clean`
 
 - [bower](https://bower.io/)
   - only for front-end (html, css, js) packages
@@ -435,11 +436,23 @@ width: 600px;
 
 ### Cypress
 
-- [cypress](https://www.cypress.io/)
 - end-to-end browser testing framework
 - can also headless
+- follows the `conditional testing` principle `If X, then Y, else Z`
 - [cypress testing library](https://testing-library.com/docs/cypress-testing-library/intro/)
   - allows dom-testing queries
+  - aria-labels can be used
+    - provides the user with recognisable names of the object
+
+```javascript
+// Add new command
+Cypress.Commands.add("clickCancel", (pattern) => {
+  testCancelFlow(pattern);
+});
+
+// Call
+cy.clickCancel(PAGES.OVERVIEW.title);
+```
 
 ### Jest
 

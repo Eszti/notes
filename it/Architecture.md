@@ -346,35 +346,51 @@
 
 - REpresentational State Transfer
 - Restful: REST implementation
-- Maturity levels (level 1-3)
-  - level 1: Resouces
-    - resource ~ object
-    - communicaton with repesentations
-    - can be identified with an URIs (URL + URN)
-    - best practice: plural
-  - level 2: HTTP Verbs
-    - POST, GET, PUT (overwrite), PATCH (only parts), DDELETE
-    - Statuscodes
-      - 2xx: OK / 201 (created), 204 (no content)
-      - 3xx: forward
-      - 4xx: Client error / 401 (not authorized = not authenticated), 403 (forbidden), 404 (not found)
-      - 5xx: server error / 500 (server error)
-    - HTTP header
-      - content-type: of payload
-      - accept: what the client accepts
-      - MIME-types: can be customized (vnd.aaa.bbb.v1+json)
-  - level 3: links (HATEOS)
-    - HAL: a standard
-    - to header
-    - json hyperschema
-    - access control, flow, changable API
-    - OPTIONS request: which calls are available
-    - con: loads of requests
-- versioning
-  - MIME type
-  - path: v1/
-  - header
-  - through links (HATEOS)
+
+### Maturity levels (level 1-3)
+
+#### Level 1: Resouces
+
+- resource ~ object
+- communicaton with repesentations
+- can be identified with an URIs (URL + URN)
+- best practice: plural
+
+#### Level 2: HTTP Verbs
+
+- POST, GET, PUT (overwrite), PATCH (only parts), DDELETE
+- Statuscodes
+  - 2xx: OK 
+    - 201 (created)
+    - 204 (no content)
+  - 3xx: forward
+  - 4xx: Client error 
+    - 401 (not authorized = not authenticated)
+    - 403 (forbidden)
+    - 404 (not found)
+  - 5xx: server error / 500 (server error)
+- HTTP header
+  - content-type: of payload
+  - accept: what the client accepts
+  - MIME-types: can be customized (vnd.aaa.bbb.v1+json)
+
+#### Level 3: links (HATEOS)
+
+- HAL: a standard
+- to header
+- json hyperschema
+- access control, flow, changable API
+- OPTIONS request: which calls are available
+- con: loads of requests
+
+### Versioning
+
+- MIME type
+- path: v1/
+- header
+- through links (HATEOS)
+
+### Documentation
 
 - [RAML](https://raml.org/) RESTful API Modeling Language, YAML-based, for describing RESTful APIs
 - [Open API](https://www.openapis.org/)

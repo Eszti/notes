@@ -61,6 +61,74 @@
 - Since 2019 April: outdated
 - modern protocols: sftp, rsync
 
+### HTTP
+
+- Hypertext Transfer Protocol
+- request (client to server)
+  - verb
+  - headers
+  - content
+- response (server to client)
+  - status code
+  - headers
+  - content
+- each connection is short lived
+- the server is stateless
+
+#### Verb
+
+- action to perform
+- GET: request resource
+- POST: create resource
+- PUT: update resource
+- PATCH: update partial resource
+- DELETE: delete resource
+
+#### Header
+
+- metadata about the request
+- e.g.
+  - Content Type
+  - Content Length
+  - Authorization
+  - Accept
+  - Cookies
+  - Expires
+
+#### Content
+
+- content concerning request
+- not for GET
+- HTML, CSS, JavaScript, XML, JSON
+
+#### Status Code
+
+- 100-199: informational
+- 200-299: success
+- 300-399: redirection to different sides
+- 400-499: client errors
+- 500-599: server errors
+
+## Server
+
+### File server
+
+- no logic, just disk drives
+- runs NFS or other network file system
+- for storage
+
+### Web server
+
+- a program that uses HTTP to server files in response to client requests
+- can run ftp, ssh...
+- examples
+  - Apache
+  - nginx
+
+### Mail server
+
+- deliver mails (~ postman)
+
 ## Security
 
 ### Proxy
@@ -145,3 +213,18 @@
 
 - Pentest = Penetration test
   - ethical hacking
+
+## Tools
+
+### Curl
+
+```bash
+# get body
+curl arest.me
+
+# get headers and response except for the body
+curl arest.me -I
+
+# get entire response
+curl arest.me -i
+```
