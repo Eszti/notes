@@ -311,11 +311,6 @@ ng generate service XY
 
 ### Testing
 
-- [jest](https://jestjs.io/)
-	- js testing framework
-	- mocking
-	- expectations
-	- snapshot tests
 - [RTL - React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 	- good testing practices
 	- hook support
@@ -377,11 +372,10 @@ ng generate service XY
 - component-based web application framwork
 - not MVC, but stateful GUI like Swing
 
-### Jersey
+### Thymeleaf
 
-- [jersey](https://github.com/eclipse-ee4j/jersey)
-- REST framework
-- provides JAX-RS reference implementation (own extended API)
+- [Thymeleaf](https://www.thymeleaf.org/)
+- server-side, java template engine 
 
 ## Development
 
@@ -437,14 +431,17 @@ width: 600px;
 ### Cypress
 
 - end-to-end browser testing framework
-- can also headless
+- [Puppeteer](https://github.com/puppeteer/puppeteer)
+  - headless library
 - follows the `conditional testing` principle `If X, then Y, else Z`
 - [cypress testing library](https://testing-library.com/docs/cypress-testing-library/intro/)
   - allows dom-testing queries
   - aria-labels can be used
     - provides the user with recognisable names of the object
 
-```javascript
+#### Commands
+
+```java
 // Add new command
 Cypress.Commands.add("clickCancel", (pattern) => {
   testCancelFlow(pattern);
@@ -464,6 +461,12 @@ cy.clickCancel(PAGES.OVERVIEW.title);
   - [esbuild-jest](https://github.com/aelbore/esbuild-jest)
     - fast
     - ts, js, tsx, jsx
+- mocking
+- exceptions
+- snapshot tests
+- setting: `jest.config.js`
+- set up moduleDirectories for using relative paths
+  - `moduleDirectories: ["node_modules", path.join(__dirname, "src")]`
 
 ### Cucumber
 

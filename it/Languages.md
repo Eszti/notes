@@ -42,15 +42,93 @@
 
 ### Spring
 
-- Spring Framework
-  - features, e.g.
-    - dependency injection
-    - mvc
-    - jdbc...
-- Spring Boot
-  - eliminate boilerplate from Spring configuration, e.g.
-    - server
-    - deployment...
+#### Spring Framework
+
+- features, e.g.
+  - dependency injection
+  - mvc
+  - jdbc...
+
+#### Spring Boot
+
+- extension of Spring
+- eliminate boilerplate from Spring configuration
+- convention over configuration
+- simplifies deployment
+
+##### Features
+
+- automatic configuration
+  - maven dependencies
+- [starter dependencies](https://www.javatpoint.com/spring-boot-starters)
+  - dependent libraries you need
+  - spring-boot-starter-test has JUnit, Mockito, Spring core, Spring test...
+  - spring-boot-starter-web has Spring MVC, REST, Tomcat, Jackson (json to java object)...
+- spring boot CLI
+  - prototyping
+- actuator
+  - for monitoring
+
+##### Bootstrapping
+
+- [spring initializr](https://start.spring.io/)
+- alternatively you can you Spring Boot CLI
+  - `spring init --dependencies=web,data-jpa app`
+- auto configuration
+  - `application.properties`
+    - e.g. loglevel, database
+  - @SpringBootApplication (3 in 1)
+    - @SpringBootConfiguration
+    - @EnableAutoConfiguration
+    - @ComponentScan
+  - @SpringBootTest
+- profile
+  - for different environments
+  - `spring.profiles.active=dev`
+  - `application-{profile}.properties`
+
+##### Data Access
+
+- H2
+  - open source, in-memory database, written in Java
+  - not production ready
+  - web browser viewer
+- ORM with JPA layers
+  - persistence
+    - data store
+  - JDBS (Java Database Connectivity)
+    - java API to cennect and execute queries
+  - JPA (Java Persistence API)
+    - abstraction, make mapping easier
+    - no implementation, only interfaces
+  - implementation / instance provider
+    - Spring Data JPA (uses Hibernate)
+  - @Entity, @Id, @GEneratedValue, @Column, @ManyToOne, @JoinColumn
+  - `CrudRepository`...
+    - implementation is provided by Spring Data JPA
+
+##### Testing
+
+- `spring-boot-starter-test`
+- @SpringBootTest
+
+##### Other modules
+
+- MVC
+  - `spring-boot-starter-web`
+  - @Controller, @GetMapping
+- RESTful
+  - @RestController
+  - response entities
+  - response codes
+- GraphQL
+  - `graphql-spring-boot-starter`
+  - `graphql-java-tools`
+  - schema
+- Monitoring
+  - actuator
+    - health, metrics...
+    - custom health indicators
 
 ### Concepts
 
@@ -59,7 +137,8 @@
 
 ### Important libraries
 
-- [Dataprovider](https://github.com/TNG/junit-dataprovider) by TNG
+- [Jersey](https://github.com/eclipse-ee4j/jersey)
+  - REST framework
 
 ### Code snippets
 
@@ -76,7 +155,9 @@
 
 ### Testing
 
+- [Dataprovider](https://github.com/TNG/junit-dataprovider) by TNG
 - [mockito][(https://github.com/mockito/mockito)
+  - `@Mock`, `@Spy`
   - 2.0: opt-in mocking for final classes/methods
     - src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker: `mock-maker-inline`
   - 3.0: openMocks() also closes resources

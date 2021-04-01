@@ -24,18 +24,27 @@ Package Manager
 ### Commands
 
 ```bash
-df -h # free disk space
+# free disk space
+df -h 
 
-sudo netstat -tulpn | grep LISTEN # find out which ports are used
+# find out which ports are used
+sudo netstat -tulpn | grep LISTEN 
 
-gsettings list-recursively org.gnome.desktop.wm.keybindings | sort | more # list key-bindings
+# list key-bindings
+gsettings list-recursively org.gnome.desktop.wm.keybindings | sort | more 
 
-google-chrome --app='https://teams.microsoft.com' # start teams in a different window
+# start teams in a different window
+google-chrome --app='https://teams.microsoft.com' 
 
-set -x # prints all command before executing them
-set -o xtrace # debug
+# prints all command before executing them
+set -x 
+# debug
+set -o xtrace 
 
 ssh-keygen
+
+# find out shell
+echo $0
 ```
 
 ### Useful

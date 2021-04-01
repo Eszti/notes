@@ -58,8 +58,9 @@
   - working version: /home/eszter/.sdkman/candidates/java/jdk1.8.0_212
   - mouse selects text autmatically: touch screen problem, touch screen -> works again
 - DO NOT INSTALL requiremnts plugin for python !!!
-- lombok annotations won't generate code
-  - invalidate cache
+- `you aren't using a compiler supported by lombok`
+  - invalidate cache or
+  - Build,Execution,Deployment -> Compiler -> Shared build process VM options: `-Djps.track.ap.dependencies=false`
 
 #### Important plugins & extra tools
 
@@ -180,6 +181,13 @@ git config --global alias.co checkout # set alias
   - settings: Auto-Type (global hotkey)
   - same password for multiple sites
   - [custom Auto-Type sequence](https://github.com/keepassxreboot/keepassxc/wiki/Autotype-Custom-Sequence)
+
+### Encryption
+
+- PGP (Pretty Good Privacy)
+  - signing
+  - encryption
+  - decryption
 
 ## Spell checker
 
