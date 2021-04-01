@@ -1,5 +1,33 @@
 # Deutschkurs Notizen - 2021
 
+## 26.03.
+
+### Grammatik - als / wenn
+
+- Vergangenheit
+	- als: zeitlich einmalig
+	- wenn: zeitlich öfters
+
+
+### Verben - gehen
+
+- abgehen
+	- Du gehst mir ab = Du fehlst mir (Bayern)
+	- ausrasten, uasflippen, abgehen: kiborul
+- angehen
+	- anmachen
+- begehen
+	- Jubiläum, Fehler
+- draufgehen
+	- sterben (umg.)
+- eingehen
+	- ich gehe kaputt
+	- eine Planze stirbt
+- sich vergehen an jdm
+	- vergewaltigen, missbrauchen
+- zergehen
+	- flüssig werden
+
 ## 05.03.
 
 ### Grammatik - TeKaMoLo
