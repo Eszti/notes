@@ -13,6 +13,7 @@
 - [Network](it/Network.md)  
 - [OS](it/OS.md)  
 - [Programming](it/Programming.md)  
+- [Soft Skills](it/SoftSkills.md)  
 - [Tools](it/Tools.md)  
 
 ## 🌍 Languages
