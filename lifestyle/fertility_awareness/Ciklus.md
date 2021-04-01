@@ -77,7 +77,7 @@
 - versenyeznek
 - nyertes kilökődik
 
-## Méhnyálkahárty
+## Méhnyálkahártya
 
 - vastagszik
 - redős lesz a felszíne

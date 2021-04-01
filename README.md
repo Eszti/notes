@@ -27,7 +27,8 @@
 
 ### 🇬🇧 English
 
-[Software Vocab](nyelv/english/SoftwareVocab.md)  
+- Vocabulary
+	- [Software Vocab](nyelv/english/SoftwareVocab.md)  
 
 ## 🏃🥑 Lifestyle
 
