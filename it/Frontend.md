@@ -44,7 +44,7 @@
 - [bower](https://bower.io/)
   - only for front-end (html, css, js) packages
 
-### compilers
+### Compilers
 
 - [Babel](https://github.com/babel/babel)
   - ~transcompiler
@@ -71,14 +71,7 @@
   - compiler: in browser
   - only render what changed
 
-### libraries
-
-- [React](https://github.com/facebook/react)
-	- components
-	- unidirectional data flow
-	- virtual DOM
-	- jsx files: ~ HTML + js code in {}
-			- Babel for complie
+### Libraries
 
 - [jQuery](https://github.com/jquery/jquery)
   - open source
@@ -88,14 +81,26 @@
     - CSS animation
     - Ajax
   - everything is in jQuery aka $ namespace
-
+- [React](https://github.com/facebook/react)
+	- components
+	- unidirectional data flow
+	- virtual DOM
+	- jsx files: ~ HTML + js code in {}
+			- Babel for complie
+- [Preact](https://preactjs.com/)
+  - small react
 - [Redux](https://github.com/reduxjs/redux)
   - state container
   - most often with React
-
 - [Formik](https://formik.org/)
   - form validation
   - form handling & submission
+- [Blitz.js](https://blitzjs.com/)
+  - fullstack react framwork
+
+### Build Tools
+
+- [Vite](https://vitejs.dev/guide/)
 
 ### Tools
 

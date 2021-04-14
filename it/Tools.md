@@ -60,9 +60,11 @@
 - DO NOT INSTALL requiremnts plugin for python !!!
 - `you aren't using a compiler supported by lombok`
   - invalidate cache or
-  - Build,Execution,Deployment -> Compiler -> Shared build process VM options: `-Djps.track.ap.dependencies=false`
+  - Build,Execution,Deployment -> Compiler -> Shared build process VM options
+    - `-Djps.track.ap.dependencies=false` 
+    - `-javaagent:/home/eszter/.m2/repository/org/projectlombok/lombok/1.18.16/lombok-1.18.16.jar`: path to local lombok
 
-#### Important plugins & extra tools
+#### Important plugins & tools
 
 - [JenBeans Toolbox](https://www.jetbrains.com/toolbox-app/)
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
@@ -123,6 +125,11 @@ Collaborative
 
 - configs: local, global (all repos), system (all users)
 - [how to write a good commit message](https://chris.beams.io/posts/git-commit/)
+
+### Tutorials
+
+- [Oh My Git](https://ohmygit.org/)
+- [Git Exercises](https://gitexercises.fracz.com/)
 
 ### Commands
 
