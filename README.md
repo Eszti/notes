@@ -33,9 +33,4 @@
 
 ## 🏃🥑 Lifestyle
 
-### 🐣 Fertiliy Awareness
-
-- [Termékenységtudat](lifestyle/fertility_awareness/Termekenysegtudat.md)
-- [Anatómia](lifestyle/fertility_awareness/Anatomia.md)
-- [Védekezés](lifestyle/fertility_awareness/Vedekezes.md)
-- [Menstruációs ciklus](lifestyle/fertility_awareness/Ciklus.md)
+### 🐣 [Fertiliy Awareness](lifestyle/fertility_awareness/README.md)
