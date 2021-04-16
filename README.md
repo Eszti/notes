@@ -15,19 +15,9 @@
 
 ## 🌍 Languages
 
-### 🇩🇪 Deutsch
-
-- Wortschatz
-	- [Software Wortschatz](nyelv/deutsch/SoftwareVocab.md)  
-- Deutschkurs Notizen
-	- [2021](nyelv/deutsch/DeutschkursNotizen_2021.md)
-	- [2020](nyelv/deutsch/DeutschkursNotizen_2020.md)
-
-### 🇬🇧 English
-
-- Vocabulary
-	- [Software Vocab](nyelv/english/SoftwareVocab.md)  
+- 🇩🇪 [Deutsch](language/german/README.md)
+- 🇬🇧 [English](language/english/README.md)
 
 ## 🏃🥑 Lifestyle
 
-### 🐣 [Fertiliy Awareness](lifestyle/fertility-awareness/README.md)
+- 🐣 [Fertiliy Awareness](lifestyle/fertility-awareness/README.md)
