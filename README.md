@@ -11,7 +11,7 @@
 - [Operating Systems](it/operating-systems/README.md)
 - [Programming Languages](it/programming-languages/README.md)
 - [Soft Skills](it/soft-skills/README.md)
-- [Softwares](it/softwares/README.md)
+- [Software](it/softwares/README.md)
 
 ## 🌍 Languages
 
@@ -20,4 +20,4 @@
 
 ## 🏃🥑 Lifestyle
 
-- 🐣 [Fertiliy Awareness](lifestyle/fertility-awareness/README.md)
+- 🐣 [Fertility Awareness](lifestyle/fertility-awareness/README.md)

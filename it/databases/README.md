@@ -1,3 +1,3 @@
 # Databases
 
-- [Realational Database](rdms.md)
+- [Relational Database](relational.md)
