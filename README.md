@@ -2,19 +2,16 @@
 
 ## 💻 IT
 
-- [AI](it/AI.md)
-- [Architecture](it/Architecture.md)  
-- [Database](it/Database.md)  
-- [DevOps](it/DevOps.md)  
-- [Distributed Systems](it/DistributedSystems.md)  
-- [Documentation](it/Documentation.md)  
-- [Frontend](it/Frontend.md)  
-- [Languages](it/Languages.md)  
-- [Network](it/Network.md)  
-- [OS](it/OS.md)  
-- [Programming](it/Programming.md)  
-- [Soft Skills](it/SoftSkills.md)  
-- [Tools](it/Tools.md)  
+- [Artificial Intelligence](it/artificial-intelligence/README.md)
+- [Concepts](it/concepts/README.md)
+- [Databases](it/databases/README.md)
+- [DevOps](it/devops/README.md)
+- [Frontend](it/frontend/README.md)
+- [Network](it/network/README.md)
+- [Operating Systems](it/operating-systems/README.md)
+- [Programming Languages](it/programming-languages/README.md)
+- [Soft Skills](it/soft-skills/README.md)
+- [Softwares](it/softwares/README.md)
 
 ## 🌍 Languages
 
@@ -33,4 +30,4 @@
 
 ## 🏃🥑 Lifestyle
 
-### 🐣 [Fertiliy Awareness](lifestyle/fertility_awareness/README.md)
+### 🐣 [Fertiliy Awareness](lifestyle/fertility-awareness/README.md)
