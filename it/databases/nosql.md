@@ -30,3 +30,7 @@
 
 - [Cassandra](https://cassandra.apache.org/)
 - [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
+
+## Real time
+
+- [RxDB](https://rxdb.info/)

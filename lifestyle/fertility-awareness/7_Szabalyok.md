@@ -74,3 +74,9 @@
 - mindig a legszigorúbb szabály lép életbe
 - ! minden szabályt felülírnak a testi jelek !
 - ~ minimális naptármódszer
+
+## Ciklusvezetés szabályai
+
+- lényeges infók
+	- elmúlt egy év legrövidebb & leghosszabb ciklusa
+	- Hőmérséklet emelkedésének napja az előző ciklusban

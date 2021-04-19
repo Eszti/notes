@@ -1,4 +1,23 @@
-# Design
+# Development
+
+## A11y
+
+### Accessibility
+
+- to design products for people with disabilities
+  - permanent (physical or mental)
+  - temporary (broken arm...)
+  - situational (bright sunlight...)
+- ensure
+  - direct / unassisted access
+  - indirect / compatibility with a person's assistive technology (e.g. computer screen readers)
+
+### Tools
+
+- [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y#readme)
+  - static AST checker for a11y in react
+- [jest-axe](https://github.com/nickcolley/jest-axe)
+  - a11y testing with jest
 
 ## Styling
 

@@ -6,6 +6,7 @@
 	- [GitHub examples](https://help.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors#examples-of-contribution-guidelines)
 - [semantic versioning](https://semver.org/spec/v2.0.0.html)
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/)
+- [markdown-toc](https://github.com/jonschlinkert/markdown-toc)
 
 ## Diagram tools
 

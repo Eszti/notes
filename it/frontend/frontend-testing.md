@@ -15,7 +15,7 @@
 
 ### Commands
 
-```java
+```js
 // Add new command
 Cypress.Commands.add("clickCancel", (pattern) => {
   testCancelFlow(pattern);

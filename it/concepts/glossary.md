@@ -13,3 +13,6 @@
 - bootstrap
   - to boot
   - to load a program using a much smaller initial program
+    
+- canary deployments
+  - to roll out releases to a subst of users
