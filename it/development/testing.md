@@ -1,5 +1,45 @@
 # Testing
 
+## Maintainable Unit Tests
+
+### Unit tests
+
+- non-maintainable
+- boundary testing
+- test do not prove code
+  - run as expected for certain input
+  - value of tests: choosing values wisely
+- Arrange - Act - Assert (given - when -then)
+- try to stick to one naming convention
+  - e.g. method-under-test_test-scenario_expected-behaviour
+- test runners
+  - try-catch and report
+- test strategies
+  - state testing
+    - public vs visible for testing
+    - gives the class more freedom to change 
+  - interaction testing
+    - via test doubles (derived classes with necessary properties)
+    - never use implementation, only interfaces
+    - use only when interaction is the requirement
+- failing
+  - nicely failed: failing asserting
+  - ugly failed: because of an unrelated exception
+
+### White box testing
+
+### Managing dependencies
+
+### Abstract Data Types (ADTs)
+
+### Generic classes under test
+
+### Testing interfaces
+
+### Concepts under test
+
+### Design by Contract
+
 ## Code Quality
 
 ### Continuous Code Improvement

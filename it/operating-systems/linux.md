@@ -66,6 +66,10 @@ Icon=/full/path/to/the/icon-file
   - `sudo snap install shutter`
 - [fuzzy finder](https://github.com/junegunn/fzf)
   - Ctrl+R shows more results
+- [the fuck](https://github.com/nvbn/thefuck)
+  - autocorrect shell commands
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+  - for zsh
 
 ### Gnome extensions
 
@@ -145,6 +149,15 @@ sudo apt update
 
 # to actually upgrade
 sudo apt upgrade
+
+# to see which versions are available
+apt-cache policy thunderbird
+
+# lock version (no upgrade on apt upgrade)
+sudo apt-mark hold thunderbird
+
+# unlock
+sudo apt-mark unhold thunderbird
 
 ```
 
