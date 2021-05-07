@@ -33,10 +33,17 @@ git config --global alias.co checkout # set alias
 
 - [git bash prompt](https://github.com/magicmonty/bash-git-prompt)
   - info about branch status in command line
+- [binder](https://mybinder.org/) 
+  - to create online interactive notebooks for a git repository
+
+### Monorepo
+
 - [Monorepo](https://www.atlassian.com/git/tutorials/monorepos)
+- [lerna/version](https://github.com/lerna/lerna/tree/main/commands/version)
+
+### Formatting
+
 - [husky](https://github.com/typicode/husky) 
   - for commit hooks
   - needs npm/yarn
-- [binder](https://mybinder.org/) 
-  - to create online interactive notebooks for a git repository
-- [commitlint]()
+- [commitlint](https://commitlint.js.org/#/)

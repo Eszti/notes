@@ -28,6 +28,11 @@
 
 ### White box testing
 
+- we have to code
+- theories
+	- path coverage
+	- branch coverage (preferred)
+
 ### Managing dependencies
 
 ### Abstract Data Types (ADTs)

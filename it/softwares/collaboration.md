@@ -12,3 +12,4 @@
 	- also for sheets, calendar and so on
 - [asana](https://asana.com/?noredirect)
 - [trello](https://trello.com)
+- [notion.so](https://www.notion.so/) - suggested by Micha
