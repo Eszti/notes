@@ -62,5 +62,37 @@
 
 ## Kütyük
 
+### Termékenységi kügyü
+
+- önmagában megmondja, hogy termékeny vagy-e
+- csak hőmérséklet alapján
+
+### Viselhető FAM kügyük
+
+- egész éjszaka viselhető, reggel nem kell mérni
+- TempDrop
+- AVA karkötő
+- Kegg
+	- méhnyaknyák figyelésére
+- Priya Ring
 - [trackle](https://trackle.de/)
 	- hüvelyi hőmérő
+
+### Applikációhoz köthető kütyük
+
+- gyorsan változik
+- nem önmagában mondja meg, hanem appba szinkronizál
+- Beurer OT 30
+	- halkan csipog
+- Natural Cycles
+	- fogamzásgátló appnak hírdeti magát
+	- főként csak a hőmérsékletre alapoz
+
+## Hogyan beszéljünk róla
+
+- a női test önismeretéről szól
+- elsősorban magunkért csináljuk
+- ha fogamzásgátlásra használjuk
+	- közös döntések a védekezésre
+	- mennyire mentek biztosra (pl ciklus eleji relatív terméketlen időszak)
+	

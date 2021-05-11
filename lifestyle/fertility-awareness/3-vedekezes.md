@@ -6,6 +6,7 @@
 - időfaktor: a módszer elején nagyobb a valószínűség
 - elégedettség
 - tökéletes hatékonyság vs felhasználói hatékonyság (pl. ha az ember elfelejti a tabit)
+- [fogamzásgátló módszerek hatékonysága](https://hormonmentes.hu/2016/05/05/a-fogamzasgatlo-modszerek-hatekonysaga/)
 
 ## Módszerek
 

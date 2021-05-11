@@ -89,6 +89,7 @@
 - egészséges spermiumszám
 	- min 15 M / ml
 	- [who irányelvek](https://www.who.int/reproductivehealth/topics/infertility/cooper_et_al_hru.pdf)
+	- [sperm count trends](https://academic.oup.com/humupd/article/23/6/646/4035689)
 - nagy százalékuk nem egészséges
 
 ### Pénisz

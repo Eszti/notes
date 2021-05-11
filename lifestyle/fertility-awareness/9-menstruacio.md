@@ -9,9 +9,11 @@
 	- sötétbarna/fekete: lassabban távozik a vér
 	- élénkpiros/vörös: újabb nyálkahártya rétegek távoznak
 	- világos piros: gyengül
+	- [videó a színekről](https://www.youtube.com/watch?v=t8yq6pXNeJM&ab_channel=hormonmentes)
 - mennyiség
 	- 30-50 ml
 	- 80 ml felett sok, felette vérveszteség
+	- [menstruációs kehely](https://www.youtube.com/watch?v=kxkKTnwUMfA&ab_channel=hormonmentes)
 - érménél kisebb darabok norálisak
 
 ## Anomáliák
