@@ -1,4 +1,4 @@
-# 🐣 Fertiliy Awareness
+# 🐣 Fertility Awareness
 
 - [Termékenységtudat](1-termekenyseg-tudat.md)
 - [Anatómia](2-anatomia.md)
