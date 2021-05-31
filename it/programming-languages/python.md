@@ -10,6 +10,7 @@
   - virtual environments
   	- `pyenv virtualenvs`
   	- `pyenv virtualenv myenv`
+    - `pyenv activate myenv`
 - [venv](https://docs.python.org/3/library/venv.html)
   - to manage different virtual environments (install different packages) of a single python version
     - `python -m venv ./venv`
@@ -58,3 +59,12 @@
 
 - [wtfpython](https://github.com/satwikkansal/wtfpython)
 - [urldecode](https://dev.to/k4ml/python-urldecode-on-command-line-2ek9)
+- use cache out of the box (LRU cache)
+
+```python
+import functools
+
+@functools.lru_cache
+def calculate_num_steps(n):
+  pass
+```

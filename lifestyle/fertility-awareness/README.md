@@ -9,5 +9,5 @@
 - [Szabályok](7-szabalyok.md)
 - [Ciklusanomáliák](8-ciklusanomaliak.md)
 - [Menstruáció](9-menstruacio.md)
-- [Babatervezés](10-kulonleges-szituaciok.md)
+- [Különleges szituációk](10-kulonleges-szituaciok.md)
 - [Hormonális problémák](12-hormonalis-problemak.md)

@@ -57,3 +57,7 @@ width: 600px;
     - ~ jest tests
     - snapshot testing for components
   - [Creevey](https://github.com/wKich/creevey)
+
+### UI Elements
+
+- modal window: a subordinate to an application's main window
