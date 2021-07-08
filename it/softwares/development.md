@@ -11,6 +11,7 @@
 - g + g: quick search
 - Jira: bulk change: search: tools -> bulk change: edit, change label...
 - [Jira rest API](https://developer.atlassian.com/server/jira/platform/rest-apis/)
+- Confluence search in subtree: `rootpage=IT-D Catalyst CVE`
 
 ## Network Tools
 
