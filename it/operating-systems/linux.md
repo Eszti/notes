@@ -194,3 +194,18 @@ sudo dpkg --configure -a
 ```bash
 sudo apt-get install --reinstall bluez  # and reboot system
 ```
+
+### Sound card not recognized
+
+- Advanced Linux Sound Architecture (ALSA)
+  - support for audio interfaces
+
+```bash
+# to check pci devices & kernels
+lspci -v | grep audio -A 10
+
+# to list sound cards
+aplay -l
+```
+
+- solution: add options `snd-hda-intel dmic_detect=0` in the `/etc/modprobe.d/alsa-base.conf`
