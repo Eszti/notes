@@ -75,6 +75,8 @@
 - image contains everything
 - launch containers from an image
 - ~ launching an EC2 from AMI
+- [docker rootless](https://docs.docker.com/engine/security/rootless/)
+	- to run the Docker daemon and containers as a non-root user
 
 #### Benefits
 

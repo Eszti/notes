@@ -27,6 +27,18 @@ git remote set-url origin ORIGIN # set origin
 
 git config --get-regexp alias # list aliases
 git config --global alias.co checkout # set alias
+
+git config --global pull.rebase true # always pull with rebase (do not create extra merge commit when merging into your local branch)
+
+grv # (with oh-my-zsh) list remotes
+```
+
+## Troubleshooting
+
+```bash
+# Restore after hard reset
+git reflog  # find commit
+git reset <commit_hash> # resets commit
 ```
 
 ## Tools
@@ -47,3 +59,8 @@ git config --global alias.co checkout # set alias
   - for commit hooks
   - needs npm/yarn
 - [commitlint](https://commitlint.js.org/#/)
+
+## GitHub
+
+- [Gist](https://gist.github.com/)
+  - to instantly share code, notes & snippets

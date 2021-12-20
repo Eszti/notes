@@ -11,6 +11,7 @@
   - Ctrl+Shift+K: delete line
   - Ctrl+D: select next occurence
   - Ctrl + click: multiple cursors
+  - Ctrl + Shift + m: expand selectin
 
 ## IntelliJ
 

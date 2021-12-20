@@ -45,10 +45,11 @@
 			- yaml files for description
 			- python code for actions
 
-## Data Representation
+## Information Retrieval
 
 - Term Frequency
 - TF-IDF
+- BM25
 
 ## Models
 
@@ -65,3 +66,10 @@
 - urllib2: to download html page
 - BeautifulSoup: to parse webpages
 - nltk.probability: FreqDist
+
+## Tools
+
+- [stanza](https://stanfordnlp.github.io/stanza/)
+	- preprocessing
+	- syntactic dependency parsing
+	- named entity recognition...

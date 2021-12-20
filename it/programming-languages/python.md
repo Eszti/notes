@@ -7,7 +7,7 @@
 	  - `pyenv install 3.8.3`
 	  - `pyenv uninstall 3.8.3`
 	  - `pyenv global 3.8.3`
-  - virtual environments
+  - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
   	- `pyenv virtualenvs`
   	- `pyenv virtualenv myenv`
     - `pyenv activate myenv`
@@ -24,6 +24,11 @@
 - requirements 
   - store in `requirements.txt`
   - install with `pip install -r requirements.txt`
+- `install.py`
+  - install with editable `pip install -e .`
+- uninstall all
+  - `pip freeze | xargs pip uninstall -y`
+  - if you installed with `-e` call `pip freeze | xargs pip uninstall -y` before
 
 ## Package managers
 

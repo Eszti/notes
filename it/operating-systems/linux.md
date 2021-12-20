@@ -11,6 +11,32 @@
     - remove header: `sudo apt-get purge linux-headers-VERSION-generic`
     - reboot
 
+## Shell
+
+- linux command line interpreter
+- interface between user and kernel
+- executes commands
+
+```bash
+# Set a specific shell as default login
+chsh -s /bin/zsh user
+
+# Check default login shell
+finger user
+```
+
+### Bash
+
+- unix shell
+- and command language
+
+### Zsh
+
+- a unix shell
+- command language
+- interactive
+- user friendlier than bash
+
 ## Commands
 
 - find out shell  
@@ -35,14 +61,23 @@ set -x
 set -o xtrace 
 
 ssh-keygen
+
+# show network interfaces
+ip a s
 ```
 
 ## Useful
+
+### How-to
 
 - `Alt>Esc` : cycle-windows
 - `Alt>0` : switch in application
 - create desktop icon
   - in `~/.local/share/applications/` eclipse.desktop
+- ssh-key authentication for a server
+  - put public key to `~/.ssh/authorized_keys` on the server
+  - add a config to your local `~/.ssh/config`
+    - no need for IdentityFile if key is under `~/.ssh/id_rsa` 
 
 ``` conf
 [Desktop Entry]
@@ -55,7 +90,8 @@ Icon=/full/path/to/the/icon-file
 
 ### Tools
 
-- [autojump](https://github.com/wting/autojump): instead of aliases
+- [autojump](https://github.com/wting/autojump)
+  - instead of aliases
 - [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/gettingstarted.html)
   - terminal with multiple tabs
   - drag & drop
@@ -70,6 +106,12 @@ Icon=/full/path/to/the/icon-file
   - autocorrect shell commands
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
   - for zsh
+  - useful plugins
+    - autojump
+    - fzf
+    - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+    - alias-finder
+    - aliases
 
 ### Gnome extensions
 

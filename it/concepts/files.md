@@ -25,3 +25,14 @@
 ### Tar
 
 - uncompressed archive file
+
+## Useful formats
+
+- json
+	- format
+		- `"text" | | python -m json.tool`
+		- `"text" | | jq`
+- jsonl
+	- json Lines
+	- format
+		- `"text" | | jq`
