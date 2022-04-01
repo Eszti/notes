@@ -37,10 +37,13 @@
 - [pip](https://pypi.org/project/pip/)
 - to delete all dependencies
   - `pip freeze | xargs pip uninstall -y`
+- use legacy resolver (from pip > 20.3)
+  - `--use-deprecated=legacy-resolver`
 
 ### conda
 
 - [conda](https://docs.conda.io/en/latest/)
+- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 ## Build distribution formats
 

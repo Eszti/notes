@@ -29,9 +29,23 @@ git config --get-regexp alias # list aliases
 git config --global alias.co checkout # set alias
 
 git config --global pull.rebase true # always pull with rebase (do not create extra merge commit when merging into your local branch)
+git config --global core.editor "vim" # use vim instead of nano
 
 grv # (with oh-my-zsh) list remotes
 ```
+
+### Diff
+
+JSON diff:
+
+```sh
+#!/bin/bash
+
+vimdiff <(jq --sort-keys . $1) <(jq --sort-keys . $2)
+```
+
+Put this to `~/.local/bin/jqdiff ` and call as `git difftool -x jqdiff main eszti/dev`.
+
 
 ## Troubleshooting
 

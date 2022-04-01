@@ -126,6 +126,24 @@ Icon=/full/path/to/the/icon-file
 - nohup
   - ignores the hup command
   - hup command is delivered to a process when it's associated shell is terminated
+- tmux
+  - terminal multiplexing
+  ```bash
+  # start a new session
+  tmux new -s session_name
+
+  # Contorll
+  ctrl+b+d
+
+  # Detach
+  tmux detach -s brise-predictions
+
+  # Attach
+  tmux attach -t brise-predictions
+
+  # List
+  tmux ls
+  ```
 
 ## Distributions
 
