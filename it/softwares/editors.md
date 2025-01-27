@@ -15,6 +15,10 @@
 
 ## IntelliJ
 
+### Important settings
+
+- Git commit interface: use non-modal commit interface
+
 ### Important hotkeys
 
 - navigate back/forward

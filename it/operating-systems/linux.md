@@ -10,6 +10,8 @@
     - remove kernel: `sudo apt-get purge linux-image-VERSION-generic`
     - remove header: `sudo apt-get purge linux-headers-VERSION-generic`
     - reboot
+- ubuntu version
+  - `lsb_release -a`
 
 ## Shell
 
@@ -46,6 +48,12 @@ finger user
 # free disk space
 df -h 
 
+# find out large directories
+du -h . | sort -h
+
+# directory size
+du -h .
+
 # find out which ports are used
 sudo netstat -tulpn | grep LISTEN 
 
@@ -64,9 +72,17 @@ ssh-keygen
 
 # show network interfaces
 ip a s
+
+# symlink
+ln -s path/to/file path/to/symlink
 ```
 
 ## Useful
+
+```bash
+# last argument from previous command
+!$
+```
 
 ### How-to
 
@@ -116,6 +132,7 @@ Icon=/full/path/to/the/icon-file
 ### Gnome extensions
 
 - [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/)
+  - reach settings via the "Extension Manager"
 - [Poweroff Button on Toopbar](https://extensions.gnome.org/extension/2851/poweroff-button-on-topbar/)
 
 ### For long running processes
@@ -132,7 +149,7 @@ Icon=/full/path/to/the/icon-file
   # start a new session
   tmux new -s session_name
 
-  # Contorll
+  # Detach
   ctrl+b+d
 
   # Detach
@@ -143,7 +160,33 @@ Icon=/full/path/to/the/icon-file
 
   # List
   tmux ls
+
+  # Close session
+  ctrl+b+:kill-session
   ```
+
+### Working on servers
+
+```bash
+# to monitor GPU usage
+watch -n0.1 nvidia-smi
+```
+
+- browse server files in nautilus: `sftp://username@server/`
+
+### Command line hands-on
+
+```bash
+sed 's/ \?\- /\n/g'
+```
+
+### jq
+
+```bash
+# Select if element is in list
+cat full_data/*.json | jq "select(.full_gold == true) | .sens[] | select(.gold_attributes | keys | index(\"BebauteFlaecheMax\"))" | jq '.id, .text, .gold_attributes'
+```
+
 
 ## Distributions
 

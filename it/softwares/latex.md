@@ -1,8 +1,20 @@
 # Latex
 
+## Packages
+
+### TeX Live
+
+- TeX-related programs, packages, fonts, softwares...
+
 ## Useful
 
 - Fit width: `\includegraphics[width=\linewidth]{...}`
+- Footnote: `\footnote{\url{}}`
+- Scale: `\usepackage[scale=0.78]{geometry}`
+- Make index: 
+	- `pdflatex text.tex`
+	- `makeindex text.tex` 
+	- `pdflatex text.tex`
 
 ## Bibtex
 

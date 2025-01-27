@@ -16,6 +16,13 @@
     - `python -m venv ./venv`
     - `source ./venv/bin/activate`
   - only works for Python3.3+
+- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+  - create virtual env
+    - `conda create -n myenv python`
+  - activate virtual env
+    - `conda activate myenv`
+  - list environments
+    - `conda env list`
 
 ## Dependencies
 
@@ -28,7 +35,7 @@
   - install with editable `pip install -e .`
 - uninstall all
   - `pip freeze | xargs pip uninstall -y`
-  - if you installed with `-e` call `pip freeze | xargs pip uninstall -y` before
+  - if you installed with editing `-e`, uninstall first the @ packages
 
 ## Package managers
 
@@ -39,11 +46,24 @@
   - `pip freeze | xargs pip uninstall -y`
 - use legacy resolver (from pip > 20.3)
   - `--use-deprecated=legacy-resolver`
+- update
+  - `pip install <package> -U`
 
 ### conda
 
 - [conda](https://docs.conda.io/en/latest/)
 - [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+
+```bash
+# Create virtualenv 
+conda create -n myenv python=3.9.6
+
+# List environments
+conda info --envs
+
+# Activate environment
+conda activate myenv
+```
 
 ## Build distribution formats
 

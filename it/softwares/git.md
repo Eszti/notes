@@ -32,6 +32,10 @@ git config --global pull.rebase true # always pull with rebase (do not create ex
 git config --global core.editor "vim" # use vim instead of nano
 
 grv # (with oh-my-zsh) list remotes
+git branch -vv # show remote branches for a local branch
+
+gra
+git remote add <remote_name> <repo>
 ```
 
 ### Diff
